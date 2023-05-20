@@ -1,6 +1,6 @@
 # El espiritu de Dios
 
-```bash
+```bash hl_lines="18-29"
 D
 El espiritu de Dios
 G                D
@@ -33,3 +33,5 @@ Dios espíritu, muevete en mí (x2)
 
 
 ```
+
+[Volver al esquema -->](../index.md)
