@@ -24,6 +24,9 @@ nav:
   - Comunión:
       - el señor es mi pastor: comunion/el_senior_es_mi_pastor.md
       - señor a quien iremos: comunion/senior_a_quien_iremos.md
+  - Penteocostés:
+      - ven espíritu de Dios: pentecostes/ven_espiritu_de_dios.md
+      - el espíritu de Dios: pentecostes/el_espiritu_de_dios.md
 #   - Historial:
 theme:
   name: material
