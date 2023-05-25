@@ -1,4 +1,4 @@
-# Señor 1
+# Señor 2
 
 ```bash
 
@@ -18,3 +18,5 @@ B7      Em
 piedad señor
 
 ```
+
+[Volver al esquema -->](../index.md)

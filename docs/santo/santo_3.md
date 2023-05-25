@@ -1,6 +1,8 @@
 # Santo 3
 
-```bash hl_lines="10-17"
+```bash hl_lines="12-19"
+CAPO 5
+
 Bm Em  A   D
 Santo, saanto
 Bm            Em            F#m   Bm
