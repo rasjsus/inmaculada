@@ -9,7 +9,7 @@
 - Cordero: [Cordero #2](cordero/cordero_2.md)
 - Comunion: [Ven espíritu de Dios](pentecostes/ven_espiritu_de_dios.md)
 - Postcomunión: [El espíritu de Dios](pentecostes/el_espiritu_de_dios.md)
-- Salida: [Una entre todas](salida/una_entre_todas.md)
+- Salida: [Algo va descendiendo](pentecostes/algo_va_descendiendo.md)
 
   Annotations:
   `mkdocs gh-deploy`
