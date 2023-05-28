@@ -1,8 +1,6 @@
 # Santo 3
 
-```bash hl_lines="12-19"
-CAPO 5
-
+```bash hl_lines="10-17"
 Bm Em  A   D
 Santo, saanto
 Bm            Em            F#m   Bm
@@ -14,18 +12,18 @@ De tu gloria, Hosanna
 
 B7  Em   A    D
 Hosanna, Hosanna
-Bb   Em  F#m    Bb
+Bm   Em  F#m    Bm
 Hosanna en el cielo
 B7  Em   A    D
 Hosanna, Hosanna
-Bb  Em  F#m     Bm
+Bm  Em  F#m     Bm
 Hosanna en el cielo
 
 Bm              Em
 Bendito el que viene
        A          D
 en el mombre del Señor
-Bb             Em
+Bm             Em
 Hosana en el cielo,
 F#m Bm
 Hosanna
