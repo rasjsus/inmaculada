@@ -1,6 +1,6 @@
 # El espiritu de Dios
 
-```bash hl_lines="18-29"
+```bash hl_lines="18-34"
 D
 El espiritu de Dios
 G                D
@@ -14,7 +14,7 @@ Está aquí para consolar
 D                 G
 Está aquí para liberar
 D
-Esta aqui para llenar
+Esta aqui para guiar
       A                    D
 El espiritu de Dios esta aquí
 
@@ -27,9 +27,14 @@ toca mi mente y mi corazon
          F#m         Bm
 llena mi vida de tu amor
             G
-muevente en mi
+Muevente en mi
           A               D
 Dios espíritu, muevete en mí (x2)
+
+             G
+- Muevente en mi
+          A               D
+Dios espíritu, muevete en mí
 
 
 ```
