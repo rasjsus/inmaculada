@@ -1,15 +1,14 @@
 # Esquema De la semana
 
-- Entrada: [El espiritu del Señor](entrada/el_espiritu_del_senior.md)
+- Entrada: [A ti madre de esperanza](salida/a_ti_madre_de_esperanza.md)
 - Señor: [Señor ten piedad 2](senior_ten_piedad/senior_2.md)
 - Gloria: [Gloria (#3)](gloria/gloria_3.md)
-- Aleluya: [Aleluya G](aleluya/aleluya_g.md)
-- Ofertorio: [Con el vino y con el pan](ofertorio/con_el_vino_y_con_el_pan.md)
-- Santo: [Santo #3](santo/santo_3.md)
-- Cordero: [Cordero #2](cordero/cordero_2.md)
-- Comunion: [Ven espíritu de Dios](pentecostes/ven_espiritu_de_dios.md)
-- Postcomunión: [El espíritu de Dios](pentecostes/el_espiritu_de_dios.md)
-- Salida: [Algo va descendiendo](pentecostes/algo_va_descendiendo.md)
+- Aleluya: [Aleluya Himno de paz](aleluya/himno_de_paz.md)
+- Ofertorio: [Madre oferente](salida/madre_oferente.md)
+- Santo: [Santo #3](santo/santo_4.md)
+- Cordero: [Cordero #3](cordero/cordero_3.md)
+- Comunion: [Madre del divino pan](salida/madre_del_divino_pan.md)
+- Salida: [Las aves van](salida/las_aves_van.md)
 
   Annotations:
   `mkdocs gh-deploy`

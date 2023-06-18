@@ -26,6 +26,7 @@ nav:
       - santo (1): santo/santo_1.md
       - santo (2): santo/santo_2.md
       - santo (3): santo/santo_3.md
+      - santo (4): santo/santo_4.md
   - Consagracion:
       - jesus hijo de david: consagracion/jesus_hijo_de_david.md
       - me consagro a ti: consagracion/me_consagro_a_ti.md
@@ -38,6 +39,11 @@ nav:
       - señor a quien iremos: comunion/senior_a_quien_iremos.md
       - un mandamiento nuevo: comunion/un_mandamiento_nuevo.md
       - verbum panis: comunion/verbum_panis.md
+  - Salida:
+      - A ti madre de esperanza: salida/a_ti_madre_de_esperanza.md
+      - Madre oferente: salida/madre_oferente.md
+      - Madre del divino pan: salida/madre_del_divino_pan.md
+      - Las aves van: salida/las_aves_van.md
   - Penteocostés:
       - ven espíritu de Dios: pentecostes/ven_espiritu_de_dios.md
       - el espíritu de Dios: pentecostes/el_espiritu_de_dios.md
