@@ -37,3 +37,5 @@ de su bondad
           A           D
 toda la tierra y cielo
 ```
+
+[Volver al esquema -->](../index.md)

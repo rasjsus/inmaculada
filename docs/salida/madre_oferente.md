@@ -67,3 +67,5 @@ entre su mismo dolor
 para hacerte nuestra madre aquél día.
 
 ```
+
+[Volver al esquema -->](../index.md)
