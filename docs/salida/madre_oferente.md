@@ -1,69 +1,69 @@
 # Madre Oferente
 
 ```bash hl_lines="1-14"
-A                  C#m      D
+G                  Bm      C
 Madre de Cristo sacerdote, virgen
-    E      A      E
+    D      G      D
 oferente siempre fiel.
-Bm             F#m
+Am             Em
 Al pie de la  cruz nos diste
-    D         E     A   E
+    C         D     G   D
 el cuerpo y sangre de  Jesús;
-Bm                     C#m
+Am                      Bm
 aquél cuerpo, aquella sangre
-  D                 E
+  C                 D
 que llevaste en tu seno con
-F#m E F#m E F#m
+Em D Em D Em
 amor.
 
 
-F#m                 E
+Em                 D
 Te entregaste como pan
-       D     E      A
+       C    D      G
 en las manos de tu Dios,
-     Bm         D
+     Am         C
 como vino rebosante
-E   F#m E
+D   Em   D
 de alegría.
-      C#m          D
+      Bm          C
 Y su amor miró tu amor
-     E          A
+     D          G
 y tomando tu humildad
-      Bm
+      Am
 transformó tu vida
-D     E    F#m E E7
+C     D    Em D D7
 en eucaristía
 
-F#m                 E
+E                 D
 Te ofreciste como altar
-        D  E      A
+        C   D      G
 en la víctima de Dios
-     Bm              D
+     Am              C
 como templo de una alianza
-E       F#m E
+D       Em  D
 nueva y limpia,
-      C#m         D
+      Bm         C
 y contigo Dios selló
-     E            A
+     D            G
 la promesa de su amor
-     Bm           D
+     Am           C
 entregándonos la vida
- E      F#m E E7
+ D      Em D D7
 nuestra vida.
 
-F#m                 E
+Em                 D
 Te entregaste como cruz
-        D       E     A
+        C       D     G
 para el cuerpo del Señor,
-      Bm            D
+      Am            C
 en tu pecho se quedaron
-E      F#m E
+D      EM   D
 sus heridas.
-    C#m             D
+    Bm             C
 Tu dolor Dios lo fundió
-     E           A
+     D           G
 entre su mismo dolor
-       Bm              E         F#m E E7
+       Am              D         Em D D7
 para hacerte nuestra madre aquél día.
 
 ```

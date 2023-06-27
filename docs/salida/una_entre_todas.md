@@ -1,6 +1,6 @@
 # Una entre todas
 
-```bash hl_lines="11-16"
+```bash hl_lines="10-15"
 
 E                        B7
 Una entre todas fue la escogida

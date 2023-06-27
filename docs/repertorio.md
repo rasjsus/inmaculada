@@ -1,0 +1,60 @@
+# REPERTORIO
+
+- Entrada:
+  - [yo celebraré](entrada/yo_celebrare.md)
+  - [ha vencido el cordero](entrada/ha_vencido_el_cordero.md)
+  - [el espiritu del señor](entrada/el_espiritu_del_senior.md)
+  - [que alegria cuando me dijeron](entrada/que_alegria_cuando_me_dijeron.md)
+- Señor:
+  - [señor (1)](senior_ten_piedad/senior_1.md)
+  - [señor (2)](senior_ten_piedad/senior_2.md)
+- Gloria:
+  - [gloria (1)](gloria/gloria_1.md)
+  - [gloria (2)](gloria/gloria_2.md)
+  - [gloria (3)](gloria/gloria_3.md)
+- Aleluya:
+  - [himno de paz](aleluya/himno_de_paz.md)
+  - [aleluya D](aleluya/aleluya_d.md)
+  - [aleluya G](aleluya/aleluya_g.md)
+- Ofertorio:
+  - [te presentamos el vino y el pan](ofertorio/te_presentamos_el_vino_y_el_pan.md)
+  - [con el vino y con el pan](ofertorio/con_el_vino_y_con_el_pan.md)
+  - [toma nuestros corazones](ofertorio/toma_nuestros_corazones.md)
+  - [padre nuestro recibid](ofertorio/padre_nuestro_recibid.md)
+- Santo:
+  - [santo (1)](santo/santo_1.md)
+  - [santo (2)](santo/santo_2.md)
+  - [santo (3)](santo/santo_3.md)
+  - [santo (4)](santo/santo_4.md)
+- Consagracion:
+  - [jesus hijo de david](consagracion/jesus_hijo_de_david.md)
+  - [me consagro a ti](consagracion/me_consagro_a_ti.md)
+  - [vive jesus el señor](consagracion/vive_jesus_el_senior.md)
+- Cordero:
+  - [cordero (1)](cordero/cordero_1.md)
+  - [cordero (2)](cordero/cordero_2.md)
+  - [cordero (3)](cordero/cordero_3.md)
+- Comunión:
+  - [el señor es mi pastor](comunion/el_senior_es_mi_pastor.md)
+  - [señor a quien iremos](comunion/senior_a_quien_iremos.md)
+  - [un mandamiento nuevo](comunion/un_mandamiento_nuevo.md)
+  - [verbum panis](comunion/verbum_panis.md)
+- Salida:
+  - [A ti madre de esperanza](salida/a_ti_madre_de_esperanza.md)
+  - [Madre oferente](salida/madre_oferente.md)
+  - [Madre del divino pan](salida/madre_del_divino_pan.md)
+  - [Las aves van](salida/las_aves_van.md)
+  - [María mírame](salida/maria_mirame.md)
+  - [En torno a María](salida/en_torno_a_maria.md)
+  - [Mi estandarte](salida/mi_estandarte.md)
+  - [Una entre todas](salida/una_entre_todas.md)
+- Penteocostés:
+  - [ven espíritu de Dios](pentecostes/ven_espiritu_de_dios.md)
+  - [el espíritu de Dios](pentecostes/el_espiritu_de_dios.md)
+  - [algo va descendiendo](pentecostes/algo_va_descendiendo.md)
+- Trinidad:
+  - [Dios mio, trinidad a quien adoro](trinidad/trinidad_a_quien_adoro.md)
+  - [Dios trino](trinidad/dios_trino.md)
+  - [Gozo de la trinidad](trinidad/gozo_de_la_trinidad.md)
+- Pascua:
+  - [Alegre la mañana](pascua/alegre_la_maniana.md)

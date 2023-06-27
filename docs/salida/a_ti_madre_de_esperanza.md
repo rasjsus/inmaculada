@@ -25,7 +25,7 @@ Si todo fracaso en nuestro camino,
 Si olvidamos de dar a Dios el sí,
     Am                        G
 Tu das nuevo valor a nuestra vida,
-    Em                    G
+    Em                    D
 Y todo nos vuelve a sonreír.
 
 ```

@@ -1,6 +1,6 @@
 # Las aves van
 
-```bash hl_lines="16-20"
+```bash hl_lines="13-17"
 	C             Em
 Las aves van a aquel lugar
 F            G
