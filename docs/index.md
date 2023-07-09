@@ -1,18 +1,14 @@
 # Esquema De la semana
 
-- Entrada: [Las aves van](salida/las_aves_van.md)
-- Señor: [Señor ten piedad 2](senior_ten_piedad/senior_2.md)
-- Gloria: [Gloria (#3)](gloria/gloria_3.md)
-- Aleluya: [Aleluya Himno de paz](aleluya/himno_de_paz.md)
-- Ofertorio: [Madre oferente](salida/madre_oferente.md)
-- Santo: [Santo #3](santo/santo_3.md)
-- Cordero: [Cordero #3](cordero/cordero_2.md)
-- Comunion: [María Mírame](salida/maria_mirame.md)
-- Post Comunion: [A ti madre de esperanza](salida/a_ti_madre_de_esperanza.md)
-- Salida: [Una entre todas](salida/una_entre_todas.md)
-
-- Cantata canto 1: [En torno a María](salida/en_torno_a_maria.md)
-- Cantata canto 2: [Mi estandarte](salida/mi_estandarte.md)
+- Entrada: [vamos al altar](entrada/vamos_al_altar.md)
+- Señor: [Señor ten piedad 3](senior_ten_piedad/senior_3.md)
+- Gloria: [Gloria (#4)](gloria/gloria_4.md)
+- Aleluya: [Aleluya D](aleluya/aleluya_d.md)
+- Ofertorio: [Madre oferente](ofertorio/con_estas_ofrendas.md)
+- Santo: [Santo #1](santo/santo_1.md)
+- Cordero: [Cordero #4](cordero/cordero_4.md)
+- Comunion: [En la eucaristía](comunion/en_la_eucaristia.md)
+- Salida: [Una entre todas](salida/en_torno_a_maria.md)
 
   Annotations:
   `mkdocs gh-deploy`
