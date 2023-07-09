@@ -31,3 +31,5 @@ F            C           G         C
 Vuelvan a tener en el mundo amor y paz
 
 ```
+
+[Volver al esquema -->](../index.md)

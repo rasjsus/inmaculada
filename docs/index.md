@@ -8,7 +8,7 @@
 - Santo: [Santo #1](santo/santo_1.md)
 - Cordero: [Cordero #4](cordero/cordero_4.md)
 - Comunion: [En la eucaristía](comunion/en_la_eucaristia.md)
-- Salida: [Una entre todas](salida/en_torno_a_maria.md)
+- Salida: [En torno a Maria](salida/en_torno_a_maria.md)
 
   Annotations:
   `mkdocs gh-deploy`
