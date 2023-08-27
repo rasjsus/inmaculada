@@ -8,7 +8,7 @@
 - Santo: [Santo #1](santo/santo_4.md)
 - Cordero: [Cordero #4](cordero/cordero_1.md)
 - Comunion: [Incomparable](comunion/incomparable.md)
-- Salida: [Las aves van](salida/las_aves_van.md)
+- Salida: [Santa Maria del camino](salida/santa_maria_del_camino.md)
 
   Annotations:
   `mkdocs gh-deploy`
