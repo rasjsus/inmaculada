@@ -1,33 +1,51 @@
 # Estoy a la puerta y llamo
 
 ```bash
+Intro Em   D Em  D
 
+G       D             C
 Estoy a la puerta y llamo
+G         D           C
 Esperando a que me abras
+Am                   D
 Abreme que quiero entrar
+      G           D       C
 Que estoy a la puerta y llamo
+
+--> Guitarras Em   D Em  D
+
+G        D            C
 El corazón que te he dado
+G       D            C
 Es morada que yo anhelo
+Am                     D
 Pero es tan digno y sagrado
+       G          D       C
 Que estoy a la puerta y llamo
+
+G                D
 Si me abres entraré
+Am               Em
 Y yo cenaré contigo
+C           D     G  F#m/D  Em
 Sino me abres seguiré
+C                  D
 Afuera como un mendigo
-Estoy a la puerta y llamo
-Esperando a que me abras
-Abreme que quiero entrar
-Que estoy a la puerta y llamo
-El corazón que te he dado
-Es morada que yo anhelo
-Pero es tan digno y sagrado
-Que estoy a la puerta y llamo
+
+G                D
 Si me abres entraré
+Am               Em
 Y yo cenaré contigo
+C           D     G  F#m/D  Em
 Sino me abres seguiré
+C                  D
 Afuera como un mendigo
+
+G      D  C      D
 Llamando, llamando
+G      D   C    D
 Llamando, llamando
+G
 Oooooh
 
 ```

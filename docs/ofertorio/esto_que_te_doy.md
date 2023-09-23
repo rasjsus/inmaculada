@@ -1,35 +1,41 @@
 # Esto que te doy
 
-``` bash hl_lines="21-28"
+```bash hl_lines="21-28"
 
 
 D           F#m      G            A
 Esto que te doy, es vino y pan, Señor
 G            D             A
 Esto que te doy, es mi trabajo
-G           A 
+G           A
 Es mi corazón, mi alma
-F#m             Bm 
+F#m             Bm
 Es mi cuerpo y mi razón
 G           A         D
 El esfuerzo de mi caminar
 
-D           F#m      G 
+D           F#m      G
 Esto que te doy, mi vida es, Señor
+G              D            A
 Es mi amor, también, es mi dolor
+G         A
 Es la ilusión, mis sueños
+F#m               Bm
 Es mi gozo y mi llorar
+G             A         D
 Es mi canto y mi oración
 
 D        F#m    G             A
 Toma mi vida, ponla en tu corazón
 D         F#m     G    A
 Dame tu mano    y llévame
-G            A 
+G            A
 Cambia mi pan en tu carne
-D          
+F#m           Bm
 Y mi vino en tu sangre
+     G          A      D  D7
 Y a mí, Señor, renuévame
+G        A      D
 Límpiame y sálvame
 
 Esto que te doy, no solo yo, Señor
@@ -38,15 +44,20 @@ Es la unión, la paz, el orden
 La harmonía y felicidad
 Es un canto en comunidad
 
+D        F#m    G             A
 Toma mi vida, ponla en tu corazón
-Dame tu mano y llévame
+D         F#m     G    A
+Dame tu mano    y llévame
+G            A
 Cambia mi pan en tu carne
+F#m           Bm
 Y mi vino en tu sangre
-Y a mí Señor, renuévame
+     G          A      D  D7
+Y a mí, Señor, renuévame
+G        A      D
 Límpiame y sálvame
 
 ```
-
 
 [Volver al esquema -->](../index.md)
 
