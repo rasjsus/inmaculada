@@ -5,6 +5,8 @@
   - [ha vencido el cordero](entrada/ha_vencido_el_cordero.md)
   - [el espiritu del señor](entrada/el_espiritu_del_senior.md)
   - [que alegria cuando me dijeron](entrada/que_alegria_cuando_me_dijeron.md)
+  - [vamos al altar](entrada/vamos_al_altar.md)
+  - [vamos cantando al señor](entrada/vamos_cantando_al_senior.md)
 - Señor:
   - [señor (1)](senior_ten_piedad/senior_1.md)
   - [señor (2)](senior_ten_piedad/senior_2.md)
