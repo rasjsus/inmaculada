@@ -1,6 +1,8 @@
 # Estoy a la puerta y llamo
 
 ```bash
+CAPO 3
+
 Intro Em   D Em  D
 
 G       D             C
@@ -29,7 +31,7 @@ Am               Em
 Y yo cenaré contigo
 C           D     G  F#m/D  Em
 Sino me abres seguiré
-C                  D
+C    Am            D
 Afuera como un mendigo
 
 G                D
@@ -38,7 +40,7 @@ Am               Em
 Y yo cenaré contigo
 C           D     G  F#m/D  Em
 Sino me abres seguiré
-C                  D
+C  Am               D
 Afuera como un mendigo
 
 G      D  C      D
