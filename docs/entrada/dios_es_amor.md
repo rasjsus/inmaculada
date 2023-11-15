@@ -22,6 +22,20 @@ y un corazón tendrás
 G                        C
 para ser tu tambien el amor
 
+Te alejaste de mi
+dice el señor 
+y al abismo baje 
+de tu traición
+Di la vida por ti 
+y en el pan que deje sobre tu mesa fui el amor
+
+En tu hermano yo estoy 
+dice el señor
+quiero encontrar en él y en su dolor
+son mi pan y mi ley 
+un vinculo de union
+y un incendio de amor, el amor 
+
 ```
 
 [Volver al esquema -->](../index.md)
