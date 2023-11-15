@@ -10,5 +10,21 @@
 - Comunion: [Ya no eres pan y vino](comunion/ya_no_eres_pan_y_vino.md)
 - Salida: [Piensa en María](salida/piensa_en_maria.md)
 
+# retiro
+
+## Jueves
+
+- Alabanza: [Granito de mostaza](alabanzas/mostaza.md)
+- Alabanza: [Este dia nos vamos a gozas](alabanzas/este_dia_nos_vamos_a_gozar.md)
+- Alabanza: [Baja el rio](alabanzas/baja_el_rio.md)
+- Alabanza: [Alabare](alabanzas/alabare.md)
+- Alabanza: [Remolineando](alabanzas/remolineando.md)
+- Alabanza: [El leon de la tribu de juda](alabanzas/el_leon_de_la_tribu.md)
+- Alabanza: [El poderoso de Israel](alabanzas/el_poderoso_de_israel.md)
+
+- Dios es Amor: [Dios es amor](entrada/dios_es_amor.md)
+
+
+
   Annotations:
   `mkdocs gh-deploy`
