@@ -1,6 +1,6 @@
 #   Entra
 
-```bash hl_lines=""
+```bash
 E                        B7
 Entra la puerta esta abierta
                C#m  A

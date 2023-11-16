@@ -1,6 +1,6 @@
 #  HAZ LLOVER
 
-```bash hl_lines=""
+```bash
 D      A      Bm
 Ven espiritu ven
 G            A      D

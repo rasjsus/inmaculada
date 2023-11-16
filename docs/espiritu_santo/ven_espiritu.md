@@ -1,6 +1,6 @@
 #   Ven Espiritu ven
 
-```bash hl_lines=""
+```bash
 E       B7    C#m
 Ven espíritu ven
   G#m        A

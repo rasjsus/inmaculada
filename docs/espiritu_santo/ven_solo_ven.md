@@ -1,6 +1,6 @@
 #   Ven solo ven
 
-```bash hl_lines=""
+```bash
 
 Capo 1:
 
