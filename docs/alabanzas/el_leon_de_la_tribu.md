@@ -1,87 +1,93 @@
 #   El león de la tribu de Judá
 
 ```bash hl_lines="2-4"
+Em       
 El León de la tribu de Judá
+        D   
 Jesús venció las cadenas y nos liberó
+Em                            B7
 Él es nuestra antorcha de victoria
+Em                             
 Nuestra fortaleza en tiempo de flaqueza
+      D
 Una torre en tiempo de guerra
+C          B7          Em
+Oh, la esperanza de Israel (x2)
+
+Em   
+Resucitó
+D
+Resucitó
+C
+Resucitó
+B7
+Aleluya (x2)
+
+Em       
+El León de la tribu de Judá
+        D   
+Jesús venció las cadenas y nos liberó
+Em                            B7
+Él es nuestra antorcha de victoria
+Em                             
+Nuestra fortaleza en tiempo de flaqueza
+      D
+Una torre en tiempo de guerra
+C          B7          Em
 Oh, la esperanza de Israel
 
-El León de la tribu de Judá
-Jesús venció las cadenas y nos liberó
-Él es nuestra antorcha de victoria
-Nuestra fortaleza en tiempo de flaqueza
-Una torre en tiempo de guerra
-Oh, la esperanza de Israel
-
-Resucitó
-Resucitó
-Resucitó
-Aleluya
-
-Resucitó
-Resucitó
-Resucitó
-Aleluya
-
-El León de la tribu de Judá
-Jesús venció las cadenas y nos liberó
-Él es nuestra antorcha de victoria
-Nuestra fortaleza en tiempo de flaqueza
-Una torre en tiempo de guerra
-Oh, la esperanza de Israel
-
+Em
 Venció la muerte con poder
+            D
 Venció la muerte con poder
+            C
 Venció la muerte con poder
-Se levantó
+      B7
+Se levantó (x2)
 
-Venció la muerte con poder
-Venció la muerte con poder
-Venció la muerte con poder
-Se levantó
-
+Em           
 Huyen los demonios cuando canta el pueblo
+D
 Huyen los demonios cuando cae el fuego
+C  
 Huyen los demonios porque no soportan
-La alabanza al rey
+B7
+La alabanza al rey (x2)
 
-Huyen los demonios cuando canta el pueblo
-Huyen los demonios cuando cae el fuego
-Huyen los demonios porque no soportan
-La alabanza al rey
 
+Em       
 El León de la tribu de Judá
+        D   
 Jesús venció las cadenas y nos liberó
+Em                            B7
 Él es nuestra antorcha de victoria
+Em                             
 Nuestra fortaleza en tiempo de flaqueza
+      D
 Una torre en tiempo de guerra
+C          B7          Em
 Oh, la esperanza de Israel
 
+Em
 Al rey Yahvé, tres veces santo
+    D
 Al rey Yahvé, tres veces santo
-Vida y canto son solo para Él
+C                           B7
+Vida y canto son solo para Él (x2)
 
-Al rey Yahvé, tres veces santo
-Al rey Yahvé, tres veces santo
-Vida y canto son solo para Él
-
+Em       
 El León de la tribu de Judá
+        D   
 Jesús venció las cadenas y nos liberó
+Em                            B7
 Él es nuestra antorcha de victoria
+Em                             
 Nuestra fortaleza en tiempo de flaqueza
+      D
 Una torre en tiempo de guerra
+C          B7          Em
 Oh, la esperanza de Israel
 
-El León de la tribu de Judá
-Jesús venció las cadenas y nos liberó
-Él es nuestra antorcha de victoria
-Nuestra fortaleza en tiempo de flaqueza
-Una torre en tiempo de guerra
-Oh, la esperanza de Israel
-
-El León de la tribu de Judá
 
 ```
 

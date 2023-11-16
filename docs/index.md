@@ -12,7 +12,7 @@
 
 # retiro
 
-## Jueves
+## Viernes
 
 - Alabanza: [Granito de mostaza](alabanzas/mostaza.md)
 - Alabanza: [Este dia nos vamos a gozas](alabanzas/este_dia_nos_vamos_a_gozar.md)
@@ -23,6 +23,16 @@
 - Alabanza: [El poderoso de Israel](alabanzas/el_poderoso_de_israel.md)
 
 - Dios es Amor: [Dios es amor](entrada/dios_es_amor.md)
+
+## Espiritu Santo
+
+- Adoración: [Entra](espiritu_santo/entra.md)
+- Adoración: [Haz Llover](espiritu_santo/haz_llover.md)
+- Adoración: [Ven Espiritu](espiritu_santo/ven_espiritu.md)
+- Adoración: [Ven Solo ven](espiritu_santo/ven_solo_ven.md)
+
+## Otros
+- CANTO: [Estoy a la puerta y llamo](comunion/estoy_a_la_puerta_y_llamo.md)
 
 
 
