@@ -69,5 +69,13 @@ Un volcán de ternura divina,
                        G
 Primavera de Dios Redentor
 
+           F         G
+Hágase en mí, de corazón,
+   Em               Am
+La voluntad de mi Señor.
+        D
+Que se cumplan en mí cada día
+                G
+Los sueños de Dios
 
 ```
