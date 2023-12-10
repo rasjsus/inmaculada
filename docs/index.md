@@ -1,40 +1,13 @@
 # Esquema De la semana
 
-- Entrada: [Salmo 62](entrada/salmo_62.md)
-- Señor: [Señor ten piedad 4](senior_ten_piedad/senior_5.md)
-- Gloria: [Gloria 1)](gloria/gloria_1.md)
-- Aleluya: [Aleluya G](aleluya/aleluya_g.md)
-- Ofertorio: [Esto que te doy](ofertorio/esto_que_te_doy.md)
-- Santo: [Santo #1](santo/santo_1.md)
-- Cordero: [Cordero #4](cordero/cordero_4.md)
-- Comunion: [Ya no eres pan y vino](comunion/ya_no_eres_pan_y_vino.md)
-- Salida: [Piensa en María](salida/piensa_en_maria.md)
-
-# retiro
-
-## Viernes
-
-- Alabanza: [Granito de mostaza](alabanzas/mostaza.md)
-- Alabanza: [Este dia nos vamos a gozas](alabanzas/este_dia_nos_vamos_a_gozar.md)
-- Alabanza: [Baja el rio](alabanzas/baja_el_rio.md)
-- Alabanza: [Alabare](alabanzas/alabare.md)
-- Alabanza: [Remolineando](alabanzas/remolineando.md)
-- Alabanza: [El leon de la tribu de juda](alabanzas/el_leon_de_la_tribu.md)
-- Alabanza: [El poderoso de Israel](alabanzas/el_poderoso_de_israel.md)
-
-- Dios es Amor: [Dios es amor](entrada/dios_es_amor.md)
-
-## Espiritu Santo
-
-- Adoración: [Entra](espiritu_santo/entra.md)
-- Adoración: [Haz Llover](espiritu_santo/haz_llover.md)
-- Adoración: [Ven Espiritu](espiritu_santo/ven_espiritu.md)
-- Adoración: [Ven Solo ven](espiritu_santo/ven_solo_ven.md)
-
-## Otros
-- CANTO: [Estoy a la puerta y llamo](comunion/estoy_a_la_puerta_y_llamo.md)
-
-
+- Entrada: [Ven Señor no tardes](entrada/ven_senior_no_tardes.md)
+- Señor: [Señor ten piedad 2](senior_ten_piedad/senior_2.md)
+- Aleluya: [Aleluya D 1](aleluya/aleluya_1.md)
+- Ofertorio: [En este mundo](ofertorio/en_este_mundo.md)
+- Santo: [Santo 2](santo/santo_2.md)
+- Cordero: [Cordero 5](cordero/cordero_5.md)
+- Comunion: [levantate](comunion/levantate.md)
+- Salida: [Dijiste Si](salida/dijiste_si.md)
 
   Annotations:
   `mkdocs gh-deploy`
