@@ -1,6 +1,7 @@
 SEÑOR TEN PIEDAD
 
-señor ten piedad de nosostros
+señor ten piedad de Nosotros
+Cristo ten piedad
 ....
 ..
 
