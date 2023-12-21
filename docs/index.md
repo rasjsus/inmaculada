@@ -7,7 +7,7 @@
 - Ofertorio: [El Niño del Tambor](villancicos/El_ninio_del_tambor.md)
 - Santo: [Santo 2](santo/santo_2.md)
 - Cordero: [Cordero 5](cordero/cordero_5.md)
-- Comunion: [levantate](villancicos/Campana_sobre_campana.md)
+- Comunion: [Campana sobre campana](villancicos/Campana_sobre_campana.md)
 - Salida: [Dijiste Si](salida/dijiste_si.md)
 
   Annotations:
