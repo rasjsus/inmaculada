@@ -1,6 +1,7 @@
 site_name: Inmaculada Chorus
 nav:
   - Home: index.md
+  - Exequias: exequias.md
   - Repertorio: repertorio.md
   - Entrada:
       - Dios es amor: entrada/dios_es_amor.md
