@@ -1,51 +1,72 @@
 # Aqui estoy señor
 
-```bash hl_lines="19-26"
-Re                      Sol        La7  Re
+```bash hl_lines="19-29"
+C                 F      G    C
 Yo el Señor del cielo y mar
-                         Sol           La7  Sim
+        C   F    G
 A mi pueblo oí llorar
-                    Sol                 Mim
+Am         F              Dm
 a los que sufriendo están
-                La7  Re
+Dm          G
 Voy a   salvar.
-                           Sol    La7  Re
+
+          C      F      G      C
 Yo que el cielo hice brillar
-                      Sol       La7   Sim
+C             F      G    Am
 Luz haré su oscuridad
-                           Sol                Mim
+Am               F           Dm
 ¿Quién podrá mi luz portar?
-                          La7
+Dm              G
 ¿Y a ellos llevar?
 
-               Re                                Sim
-AQUÍ ESTOY SEÑOR ¿HEME AQUÍ MI DIOS?
-            Re         Mim     Mi7       La7
+       C         F   G      C             F
+AQUÍ ESTOY SEÑOR    ¿HEME AQUÍ MI DIOS?
+G          C     F      D7   G
 TE HE ESCUCHADO EN LA NOCHE HABLAR;
-         Re                           Sim
+-
+     C        F
 YO IRE SEÑOR
-              Re                     Mi7         La7        Re
+G      C    F  G
 SI ME GUIAS
+        C      F       G       C    F   G
 A TU PUEBLO PONDRÉ EN MI CORAZON
-
+------
+            C      F     G   C
 Yo el Dios de la tempestad
-Su dolor quiz cargar
+     C    F      G      Am
+Su dolor quize cargar
+       Am     F         Dm
 Los llamados sin cesar
+Dm          G
 Y ellos se van
+
+      C   F   G   C
 Ese duro corazón
+        C     F       G   Am
 Voy a llenar con mi amor
+Am               F           Dm
 Quien les va a llevar mi voz
+Dm          G
 Quien por amor
 
+-----
 
+C                   F     G   C
 Yo el señor que el fuego creo
+C                F         G  Am
 A quien sufre en su interior
+       Am         F    Dm
 Un festín de salvación
+Dm           G
 Hare en su honor
 
+         C    F     G   C
 Del mas exquisito pan
+     C     F    G   Am
 Saciare su corazón
+Am            F     Dm
 Vida y luz recibirá
+Dm       G
 De su señor
 
 ```

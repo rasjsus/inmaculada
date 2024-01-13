@@ -2,20 +2,20 @@
 
 ```bash hl_lines="2-6"
 
- LA                           FA#m
+ A                            F#m
 CANTA AL SEÑOR UN CANTO NUEVO,
-                            RE
+                              D
 CANTA AL SEÑOR UN CANTO NUEVO,
-         SIm              MI
+         Bm                     E
 A UNA VOZ, CANTEN UN HIMNO AL SEÑOR. (2)
 
-LA                 RE
+A                  F#m
 EN SIETE DIAS CREO DIOS AL MUNDO
-LA              RE
+A              F#m
 ADAN PECO Y PERDIO EL CIELO
-LA                      FA#m
-JESUS VINO AL MUNDO PARA REDIMIRNOS
-RE         SIm             MI
+A                FA#m
+JESUS VINO PARA REDIMIRNOS
+D                  E
 MURIO EN LA CRUZ Y NOS SALVO
 
 ```
