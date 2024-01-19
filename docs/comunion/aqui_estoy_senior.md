@@ -1,6 +1,8 @@
 # Aqui estoy señor
 
 ```bash hl_lines="19-29"
+CAPO 3
+
 C                 F      G    C
 Yo el Señor del cielo y mar
         C   F    G
