@@ -7,8 +7,8 @@
 - Ofertorio: [Recibe oh señor](ofertorio/toma_nuestros_corazones.md)
 - Santo: [Santo ](santo/santo_5.md)
 - Cordero: [Cordero 4](cordero/cordero_4.md)
-- Comunion: [Aqui estoy señor](comunion/aqui_estoy_senior.md)
-- Salida: [Dijiste Si](salida/dijiste_si.md)
+- Comunion: [Alma misioner](comunion/ALMA_MISIONERA.md)
+- Salida: [Ven y Siguieme](comunion/ven_y_sigueme.md)
 
   Annotations:
   `mkdocs gh-deploy`
