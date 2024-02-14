@@ -1,26 +1,29 @@
 # Entre tus manos
 
-```bash hl_lines="2-4"
-D EmA7DF#m
+```bash
+D          Em    A7      D     F#m
 Entre tus manos está mi vida, Señor.
-BmEmA7 DD7
+Bm          Em    A7       D    D7
 Entre tus manos pongo mi existir.
-GA7 DF#m
+
+         G   A7     D   F#m
 Hay que morir, para vivir.
-BmEmA7 DD7
+Bm          Em   A7         D   D7
 Entre tus manos yo confío mi ser
-Em A7 D F#m
+
+         Em    A7          D    F#m
 Y si el grano de trigo no muere,
-Bm Em A F#m
+Bm         Em   A     F#m
 Y si no muere solo quedará,
-BmEmA7 DF#m
+Bm       Em   A7     D       F#m
 pero si muere en abundancia dará
-Bm EmA7 D D7
+Bm         Em    A7       D   D7
 Un fruto eterno que no morirá
-GA7 DF#m
+
+         G   A7     D   F#m
 Hay que morir, para vivir.
-BmEmA7 DD7
+Bm          Em   A7         D   D7
 Entre tus manos yo confío mi ser
 ```
 
-[Volver al esquema -->](../index.md)
+[Volver al esquema -->](../miercoles_de_ceniza.md)

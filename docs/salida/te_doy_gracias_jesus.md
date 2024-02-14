@@ -1,31 +1,41 @@
 # Te doy gracias Jesús
 
-```bash hl_lines="10-17"
+```bash hl_lines="1-8 19-26"
                    C
 Te doy gracias Jesús
-Am
+                  Am
 Por haberte encontrado
-F G7
+                F   G7
 Por haberme salvado
-C
+                 C
 Te doy gracias Jesús.
-C
+
+               C
 Hoy ya se el camino
-Am
+               Am
 Y hacia el me dirijo
-F
+                 F
 Es la senda bendita
-G7
+                   G
 Que representa el hijo
-C
+
+                   C
+Te doy gracias Jesús
+                  Am
+Por haberte encontrado
+                F   G7
+Por haberme salvado
+                 C
+Te doy gracias Jesús.
+
+                C
 Mi amor era pequeño
-Am
+                   Am
 Pero hoy lo he encontrado
-F
+               F
 Y ese pequeño amor
-G7
+                G
 Hoy se ha agigantado
-Te doy gracias Jesús...(x1)
 
 ```
 
