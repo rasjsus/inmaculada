@@ -1,6 +1,6 @@
 # Santo 3
 
-```bash hl_lines="13-19"
+```bash hl_lines="12-19"
 CAPO 1
 
 Bm Em  A   D
@@ -32,4 +32,4 @@ Hosanna
 
 ```
 
-[Volver al esquema -->](../index.md)
+[Volver al esquema -->](../miercoles_de_ceniza.md)

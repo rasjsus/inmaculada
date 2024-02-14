@@ -18,4 +18,4 @@ Seeñor ten piedad
 
 ```
 
-[Volver al esquema -->](../exequias.md)
+[Volver al esquema -->](../miercoles_de_ceniza.md)
