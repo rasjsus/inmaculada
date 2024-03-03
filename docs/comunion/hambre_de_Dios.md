@@ -1,6 +1,6 @@
 # Hambre de Dios
 
-´´´
+```bash
 C           F   C                      G7
 No podemos caminar con hambre bajo el sol
 C         C7      F     C
@@ -34,4 +34,4 @@ cantando su dolor
 en la noche brillará tu luz
      Dm   F     C
 nos guía la verdad
-´´´
+```

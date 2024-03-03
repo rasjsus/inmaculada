@@ -1,6 +1,6 @@
 #A tu altar
 
-´´´
+```bash
        Cm      G     Cm
 A tu altar venimos señor
     Fm     Cm         Fm              
@@ -41,4 +41,4 @@ con contrito corazón
     Ddis  G      Cm
 en ésta senda cuaresmal
 
-´´´
+```

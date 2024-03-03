@@ -1,6 +1,6 @@
 # Vino y pan
 
-´´´
+```bash
 CAPO 3
 
 Em      Am
@@ -38,4 +38,4 @@ de tu gracia y tu paz.
 Em
 Amén.
 
-´´´
+```
