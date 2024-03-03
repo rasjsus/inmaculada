@@ -29,6 +29,22 @@ Madre, madre,
 G   D  A   D
 Madre, madre
 
+D             A
+Gracias, madre mía,
+      Bm           Fm
+por llevarnos a Jesús
+G             D
+Haznos más humildes,
+       Dm          A
+tan sencillos como tú
+D              A
+Gracias, madre mía,
+      Bm         Fm
+por abrir tu corazón
+G            D
+Porque nos congregas
+      A       D
+y nos das tu amor
 
 ```
 

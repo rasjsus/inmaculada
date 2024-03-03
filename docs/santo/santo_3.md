@@ -24,7 +24,7 @@ Hosanna en el cielo
 Bm              Em
 Bendito el que viene
        A          D
-en el mombre del Señor
+en el nombre del Señor
 Bm             Em
 Hosana en el cielo,
 F#m Bm

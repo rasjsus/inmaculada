@@ -4,6 +4,7 @@
 
   - [Dios es amor](entrada/dios_es_amor.md)
   - [Canta al señor un canto nuevo](entrada/canta_al_senor_un_canto_nuevo.md)
+  - [Caminaré](exequias/caminare.md)
   - [el espiritu del señor](entrada/el_espiritu_del_senior.md)
   - [ha vencido el cordero](entrada/ha_vencido_el_cordero.md)
   - [que alegría cuando me dijeron](entrada/que_alegria_cuando_me_dijeron.md)
@@ -39,6 +40,10 @@
   - [aleluya D](aleluya/aleluya_d.md)
   - [aleluya G](aleluya/aleluya_g.md)
 
+- Honor y gloria
+
+  - [Honor y gloria jessed](honor_y_gloria/honor_y_gloria_1.md)
+
 - Ofertorio:
 
   - [con el vino y con el pan](ofertorio/con_el_vino_y_con_el_pan.md)
@@ -49,6 +54,7 @@
   - [sobre tu altar](ofertorio/sobre_tu_altar.md)
   - [te presentamos el vino y el pan](ofertorio/te_presentamos_el_vino_y_el_pan.md)
   - [toma nuestros corazones](ofertorio/toma_nuestros_corazones.md)
+  - [vino y pan ]
 
 - Santo:
 
@@ -81,6 +87,7 @@
   - [en la eucaristía](comunion/en_la_eucaristia.md)
   - [estoy a la puerta y llamo](comunion/estoy_a_la_puerta_y_llamo.md)
   - [eterno viajero](comunion/eterno_viajero.md)
+  - [hambre de Dios]
   - [incomparable](comunion/incomparable.md)
   - [levantate](comunion/levantate.md)
   - [señor a quien iremos](comunion/senior_a_quien_iremos.md)
