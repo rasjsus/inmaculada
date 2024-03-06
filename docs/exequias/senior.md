@@ -18,4 +18,5 @@ Seeñor ten piedad
 
 ```
 
-[Volver al esquema -->](../exequias.md)
+[Volver al esquema -->](../index.md)
+

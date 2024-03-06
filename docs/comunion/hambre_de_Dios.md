@@ -10,7 +10,7 @@ tu cuerpo y sangre Señor (2)
 
 C         Em      F     C
 Comamos todos de este pan
-    Am    Dm      G7
+    Am           G7
 el pan de la unidad
        C      F     C      Am
 en un cuerpo nos unió el señor
@@ -19,7 +19,7 @@ por medio del amor
 
 C          Em    F     C
 Señor yo tengo sed de ti
-   Am      Dm       G7
+   Am               G7
 sediento estoy de Dios
       C         F   C  Am
 pero pronto llegaré a ver
@@ -28,10 +28,12 @@ el rostro del Señor
 
 C         Em         F     C
 Por el desierto el pueblo va
-Am       Dm     G7
+Am            G7
 cantando su dolor
          C     F   C     Am
 en la noche brillará tu luz
      Dm   F     C
 nos guía la verdad
 ```
+[Volver al esquema -->](../index.md)
+

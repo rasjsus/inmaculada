@@ -37,4 +37,5 @@ danos, danos, danos la paz
 
 ```
 
-[Volver al esquema -->](../exequias.md)
+[Volver al esquema -->](../index.md)
+

@@ -35,7 +35,7 @@ Gracias, madre mía,
 por llevarnos a Jesús
 G             D
 Haznos más humildes,
-       Dm          A
+       Em          A
 tan sencillos como tú
 D              A
 Gracias, madre mía,
