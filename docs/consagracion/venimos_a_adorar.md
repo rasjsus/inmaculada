@@ -34,3 +34,5 @@ G      A F#m Bm        G          A   D
 Que  ale-grí-a    el poder estar contigo
 
 ```
+
+[Volver al esquema -->](../index.md)
