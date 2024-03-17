@@ -26,4 +26,4 @@ Bm          Em   A7         D   D7
 Entre tus manos yo confío mi ser
 ```
 
-[Volver al esquema -->](../miercoles_de_ceniza.md)
+[Volver al esquema -->](../index.md)
