@@ -1,7 +1,7 @@
 # Viva Cristo Rey
 
-```bash
-CAPO 6
+```bash hl_lines="21-34 53-66 85-103"
+CAPO 3
 
 C                        G
 Un grito de guerra se escucha

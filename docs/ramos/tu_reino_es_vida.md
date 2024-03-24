@@ -1,6 +1,6 @@
 # Tu reino es vida
 
-```bash
+```bash hl_lines="3-12 27-36 53-62 78-87 103-112"
 CAPO 5
 
 Am             G       Am        E7
@@ -27,6 +27,18 @@ para que rija a tu Pueblo con justicia,
          Am-F   E-G      Am
 a tus humildes con rectitud.
 
+Am             G       Am        E7
+Tu Reino es vida, tu Reino es verdad;
+Am               G       Am        E7
+tu Reino es justicia, tu Reino es paz;
+Am            Dm                  Am
+tu Reino es Gracia, tu Reino es amor;
+F           Am     E7        Am
+venga a nosotros tu Reino, Señor,
+F           Am       E7       Am
+venga a nosotros tu Reino, Señor.
+
+
 Am              E7        Am
 Que los montes traigan la paz,
            F        G           Am
@@ -39,6 +51,19 @@ que socorra a los hijos del pobre;
 que él defienda a los humildes del pueblo
       Am-F     E-G     Am
 y quebrante al explotador.
+
+
+Am             G       Am        E7
+Tu Reino es vida, tu Reino es verdad;
+Am               G       Am        E7
+tu Reino es justicia, tu Reino es paz;
+Am            Dm                  Am
+tu Reino es Gracia, tu Reino es amor;
+F           Am     E7        Am
+venga a nosotros tu Reino, Señor,
+F           Am       E7       Am
+venga a nosotros tu Reino, Señor.
+
 
  Am        E7           Am
 Que dure tanto como el sol,
@@ -53,6 +78,18 @@ Que en sus días florezca la justicia
     Am-F           E-G       Am
 y la paz hasta que falte la luna.
 
+Am             G       Am        E7
+Tu Reino es vida, tu Reino es verdad;
+Am               G       Am        E7
+tu Reino es justicia, tu Reino es paz;
+Am            Dm                  Am
+tu Reino es Gracia, tu Reino es amor;
+F           Am     E7        Am
+venga a nosotros tu Reino, Señor,
+F           Am       E7       Am
+venga a nosotros tu Reino, Señor.
+
+
 Am         E7          Am
 Librará al pobre que suplica,
          F          G         Am
@@ -65,6 +102,18 @@ y salvará la vida de los pobres;
 salvará la violencia sus vidas,
         Am-F         E-G            Am
 pues su sangre es preciosa ante sus ojos.
+
+Am             G       Am        E7
+Tu Reino es vida, tu Reino es verdad;
+Am               G       Am        E7
+tu Reino es justicia, tu Reino es paz;
+Am            Dm                  Am
+tu Reino es Gracia, tu Reino es amor;
+F           Am     E7        Am
+venga a nosotros tu Reino, Señor,
+F           Am       E7       Am
+venga a nosotros tu Reino, Señor.
+
 
 Am             E7     Am
 Que su nombre sea eterno,

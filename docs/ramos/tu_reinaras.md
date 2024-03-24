@@ -1,6 +1,8 @@
 # Tú reinarás
 
-```bash
+```bash hl_lines="10-21 32-43 54-65"
+
+
 D
 Tú reinarás, este es el grito
                 G      Em    A
