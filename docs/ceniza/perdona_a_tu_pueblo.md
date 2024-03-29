@@ -1,30 +1,31 @@
 # Perdona a tu pueblo
 
 ```bash hl_lines="1-6"
-Dm                    A7
+CAPO 2
+Dm           Bb       A7
 PERDONA A TU PUEBLO SEÑOR
-               Dm
+Gm               Dm
 PERDONA A TU PUEBLO
-    A7      Dm
+  Bb   A7   Dm
 PERDÓNALE SEÑOR
 
-Dm                      A7
+Dm              Bb       A7
 No estés eternamente enojado
-                        Dm
+Gm          A7          Dm
 No estés eternamente enojado
-A7          Dm
+  A7        Dm
 Perdónale Señor.
 
-Dm                         A7
-Por tus profundas llagas crueles
-                            Dm
+Dm                 Bb       A7
+Por tus profundas llagas tan crueles
+Gm               A7          Dm
 Por tus salivas y por tus hieles
 A7         Dm
 Perdónale Señor
 
-Dm                         A7
+Dm              Bb          A7
 Por tus heridas de pies y manos
-                      Dm
+Gm              A7       Dm
 Por los azotes tan inhumanos
 A7         Dm
 Perdónale Señor
@@ -52,4 +53,4 @@ Perdónale Señor
 
 ```
 
-[Volver al esquema -->](../miercoles_de_ceniza.md)
+[Volver al esquema -->](../viernes_santo.md)
