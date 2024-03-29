@@ -29,7 +29,7 @@ Transformas nuestra ofrenda en ti Señor.
 
 G          Bm
 Toma mi vida
-C      Am      D 
+C      Am      D
 y también cambiará.
 Eb          A#
 Llena mi alma
@@ -40,4 +40,4 @@ Amén.
 
 ```
 
-[Volver al esquema -->](../index.md)
+[Volver al esquema -->](../viernes_santo.md)
