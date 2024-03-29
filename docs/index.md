@@ -1,14 +1,14 @@
 # Esquema De la semana
 
-- Entrada: [Tu reinaras](ramos/tu_reinaras.md)
-- Señor: [Señor ten piedad](exequias/senior.md)
-- Honor y Gloria: [Honor y Gloria jessed](honor_y_gloria/honor_y_gloria_1.md)
-- Ofertorio: [Vino y pan](ofertorio/vino_y_pan.md)
-- Santo: [Santo ](santo/santo_3.md)
-- Adoracion: [Venimos a adorar](consagracion/venimos_a_adorar.md)
-- Cordero: [Cordero 4](exequias/cordero.md)
-- Comunion: [Tu reino es vida](ramos/tu_reino_es_vida.md)
-- Salida: [Viva Cristo Rey](ramos/viva_cristo_rey.md)
+- Entrada: [Ha vencido el cordero](entrada/ha_vencido_el_cordero.md)
+- Señor: [Señor ten piedad](senior_ten_piedad/senior_2.md)
+- Gloria: [Gloria](gloria/gloria_1.md)
+- Aleluya: [Aleluya](aleluya/aleluya_1.md)
+- Ofertorio: [Hemos entregado](ofertorio/hemos_entregado.md)
+- Santo: [Santo ](santo/santo_5.md)
+- Cordero: [Cordero 4](cordero/cordero_4.md)
+- Comunion: [Mirad jesus ha resucitado](comunion/mirad_jesus_resucita_hoy.md)
+- Salida: [El león de la tribu de Juda](alabanzas/el_leon_de_la_tribu.md)
 
   Annotations:
   `mkdocs gh-deploy`
