@@ -1,7 +1,7 @@
 # Esquema De la semana
 
 - Entrada: [Ha vencido el cordero](entrada/ha_vencido_el_cordero.md)
-- Señor: [Señor ten piedad](senior_ten_piedad/senior_2.md)
+- Señor: [Señor ten piedad](senior_ten_piedad/senior_6.md)
 - Gloria: [Gloria](gloria/gloria_1.md)
 - Aleluya: [Aleluya](aleluya/aleluya_1.md)
 - Ofertorio: [Hemos entregado](ofertorio/hemos_entregado.md)
