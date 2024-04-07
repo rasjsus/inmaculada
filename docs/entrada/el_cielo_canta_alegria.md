@@ -41,3 +41,5 @@ ALLELU-YA ALLELUYA
 C      F   C E7 Am
 ALLELU-YA ALLELUYA
 ```
+
+[Volver al esquema -->](../index.md)
