@@ -7,7 +7,7 @@ A            D
 alegre la mañana (x2)
 
 D                           G            D
-En nobre de Dios Padre del Hijo y del Espíritu
+En nombre de Dios Padre del Hijo y del Espíritu
  A                                    D
 Salimos en la noche y estrenamos la aurora
     G

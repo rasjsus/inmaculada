@@ -45,6 +45,7 @@
   - [con estas ofrendas](ofertorio/con_estas_ofrendas.md)
   - [En este mundo](ofertorio/en_este_mundo.md)
   - [esto que te doy](ofertorio/esto_que_te_doy.md)
+  - [Hemos entregado](ofertorio/hemos_entregado.md)
   - [padre nuestro recibid](ofertorio/padre_nuestro_recibid.md)
   - [sobre tu altar](ofertorio/sobre_tu_altar.md)
   - [te presentamos el vino y el pan](ofertorio/te_presentamos_el_vino_y_el_pan.md)
@@ -83,6 +84,8 @@
   - [eterno viajero](comunion/eterno_viajero.md)
   - [incomparable](comunion/incomparable.md)
   - [levantate](comunion/levantate.md)
+  - [Mirad, Jesús resucita hoy](comunion/mirad_jesus_resucita_hoy.md)
+  - [Renace la esperanza](comunion/renace_la_esperanza.md)
   - [señor a quien iremos](comunion/senior_a_quien_iremos.md)
   - [un mandamiento nuevo](comunion/un_mandamiento_nuevo.md)
   - [una estrella](comunion/una_estrella.md)
@@ -122,6 +125,10 @@
 - Pascua:
 
   - [Alegre la mañana](pascua/alegre_la_maniana.md)
+  - [Ha vencido el cordero](entrada/ha_vencido_el_cordero.md)
+  - [El cielo canta alegría](entrada/el_cielo_canta_alegria.md)
+  - [Mirad Jesus resucita hoy](comunion/mirad_jesus_resucita_hoy.md)
+  - [Renace la esperanza](comunion/renace_la_esperanza.md)
 
 - Exequias:
 
