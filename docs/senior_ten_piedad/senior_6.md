@@ -20,3 +20,5 @@ A7      Dm
 piedad señor
 
 ```
+
+[Volver al esquema -->](../index.md)
