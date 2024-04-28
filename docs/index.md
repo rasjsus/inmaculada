@@ -1,14 +1,14 @@
 # Esquema De la semana
 
-- Entrada: [El Cielo canta alegría](entrada/el_cielo_canta_alegria.md)
+- Entrada: [Canta al Señor un canto nuevo](entrada/canta_al_senor_un_canto_nuevo.md)
 - Señor: [Señor ten piedad](senior_ten_piedad/senior_6.md)
 - Gloria: [Gloria](gloria/gloria_1.md)
-- Aleluya: [Aleluya](aleluya/aleluya_d.md)
-- Ofertorio: [Hemos entregado](ofertorio/hemos_entregado.md)
+- Aleluya: [Aleluya](aleluya/himno_de_paz.md)
+- Ofertorio: [Te ofrecemos padre nuestro](ofertorio/te_ofrecemos_padre_nuestro.md)
 - Santo: [Santo ](santo/santo_5.md)
 - Cordero: [Cordero 4](cordero/cordero_4.md)
-- Comunion: [Renace la esperanza](comunion/renace_la_esperanza.md)
-- Salida: [El león de la tribu de Juda](alabanzas/el_leon_de_la_tribu.md)
+- Comunion: [El amor de mi Dios](comunion/el_amor_de_mi_dios.md)
+- Salida: [El Señor Resucitó](entrada/el_senior_resucito.md)
 
   Annotations:
   `mkdocs gh-deploy`

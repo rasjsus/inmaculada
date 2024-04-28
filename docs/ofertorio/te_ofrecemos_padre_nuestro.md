@@ -2,86 +2,88 @@
 
 ```bash
 
-      C         F       C
+CAPO 3
+
+      G       C       G
 Te ofrecemos, Padre Nuestro,
-         C     A7     Dm
+         G     E7     Am
 con el vino y con el pan
-          F     Dm     G
+          C     Am     D
 nuestras penas y alegrías,
-      F         G      C
+      C         D      G
 el trabajo y nuestro afán (2)
 
-          D7           G
+          A7           D
 Como el trigo de los campos
-          D7          G
+          A7          D
 bajo el signo de la cruz,
-           D7             G
+           A7             D
 se transforman nuestras vidas
-         D    D7    G    G7
+         A    A7    D    D7
 en el cuerpo de Jesús.
 
-      C         F       C
+      G        C      G
 Te ofrecemos, Padre Nuestro,
-         C     A7     Dm
+         G     E7     Am
 con el vino y con el pan
-          F     Dm     G
+          C     Am     D
 nuestras penas y alegrías,
-      F         G      C
+      C         D      G
 el trabajo y nuestro afán (2)
 
-        D7            G
+        A7            D
 A los pobres de la tierra
-        D7            G
+        A7            D
 a los que sufriendo están
-        D7           G
+        A7           D
 cambia su dolor en vino;
-         D     D7    G   G7
+         A     A7    D   D7
 como la uva en el lagar.
 
-      C         F       C
+      G        C      G
 Te ofrecemos, Padre Nuestro,
-         C     A7     Dm
+         G     E7     Am
 con el vino y con el pan
-          F     Dm     G
+          C     Am     D
 nuestras penas y alegrías,
-      F         G      C
-el trabajo y nuestro afán
+      C         D      G
+el trabajo y nuestro afán (2)
 
-       D7            G
+       A7            D
 Estos dones son el signo
-       D7           G
+       A7           D
 del esfuerzo de unidad
-        D7            G
+        A7            D
 que los hombres realizamos
-        D     D7    G
+        A     A7    D
 en el campo y la ciudad.
 
-      C         F       C
+      G        C      G
 Te ofrecemos, Padre Nuestro,
-         C     A7     Dm
+         G     E7     Am
 con el vino y con el pan
-          F     Dm     G
+          C     Am     D
 nuestras penas y alegrías,
-      F         G      C
+      C         D      G
 el trabajo y nuestro afán
 
-         D7              G
+         A7              D
 Es tu pueblo quien te ofrece
-          D7         G
+          A7         D
 con los dones del altar
-        D7        G
+        A7        D
 la naturaleza entera
-   D       D7     G  G7
+   A       A7     D  D7
 anhelando libertad.
 
-      C         F       C
+      G        C     G
 Te ofrecemos, Padre Nuestro,
-         C     A7     Dm
+         G     E7     Am
 con el vino y con el pan
-          F     Dm     G
+          C     Am     D
 nuestras penas y alegrías,
-      F         G      C
-el trabajo y nuestro afán
+      C         D      G
+el trabajo y nuestro afán (2)
 
 
 ```
