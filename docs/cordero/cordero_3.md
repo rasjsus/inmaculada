@@ -1,6 +1,8 @@
 # Cordero #3
 
-```
+```bash
+
+Capo 1
 
 G
 Cordero de Dios

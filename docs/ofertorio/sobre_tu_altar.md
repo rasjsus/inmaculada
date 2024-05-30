@@ -1,38 +1,46 @@
 # Sobre tu altar
 
 ```bash
-lam
+Capo 1
+
+Am
 Sobre tu altar, lo más preciado, Señor,
-                DO
+           C
 sobre tu altar mi pan y vino de amor,
-               rem  FA                 MI
+            Dm   F             E7
 sobre tu altar       mi vida entera.
 
-lam
+Am
 Mi pasado te lo doy,
-                         DO
+     C
 mi presente con todo mi amor,
-        rem        FA                 MI
+     Dm    F                  E
 mi futuro   lo pongo en tus manos.
-lam
+
+
+Am
 Sobre tu altar te dejo mi corazón,
-                DO
+           C
 sobre tu altar te dejo mi voluntad
-               rem  FA                 MI
+           Dm    F               E
 sobre tu altar       mi vida entera.
 
-           DO
+     C
 Confiaré, no temeré,
-         SOL
+     Gm
 confiaré, me entregaré,
-          FA     lam   MI
+     F      Dm   E
 confiaré en Ti, Señor.
-               DO
+      C
 Consagraré mi corazón
-         SOL        FA         MI
-a tu amor, mi Dios, mi Rey. (bis)
+       Gm       F       E
+a tu amor, mi Dios, mi Rey. (X2)
 
 
 ```
+
+## Sugerencias
+
+<iframe width="1004" height="565" src="https://www.youtube.com/embed/xiIsvhTuIuI" title="Sobre tu Altar - YULI Y JOSH -  Cover - MÚSICA CATÓLICA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [Volver al esquema -->](../index.md)
