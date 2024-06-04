@@ -1,0 +1,56 @@
+# Temablando de amor
+
+```bash
+
+CAPO 1
+
+REm                      SOLm
+En tu cuerpo encuentro mi paz Señor
+LA7                REm
+En ti descansa mi alma
+               SOLm
+Y esta en mi emoción amado mío
+           REm
+Que tiemblo por ti
+
+Coro:
+                   SOLm          DO
+Estoy temblando de amor por ti Señor
+                FA              REm
+Temblando al sentirte en mi interior
+                   SOLm         LA7
+Estoy temblando de amor  y el corazón
+         REm       LA7
+Se me derrite por ti
+         REm       LA7
+Se me derrite por ti
+         REm       LA7   REm
+Se me derrite por ti    señor
+
+
+
+REm                    SOLm          LA7
+En tu cuerpo y sangre directo al corazón
+             REm
+Te refugias en mí
+                SOLm            LA7
+Y te siento tan vivo en mi interior
+               REm
+Que tiemblo por ti
+
+
+Coro:
+                  SOLm            DO
+Estoy temblando de amor por ti Señor
+                FA                 REm
+Temblando al sentirte en mi interior
+                  SOLm              LA7
+Estoy temblando de amor  y el corazón
+       REm       LA7
+Se me derrite por ti
+       REm       LA7
+Se me derrite por ti
+       REm       LA7   REm
+Se me derrite por ti    señor
+
+```
