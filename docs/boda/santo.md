@@ -1,7 +1,7 @@
 # Santo 3
 
-```bash hl_lines="13-19"
-CAPO 1
+```bash
+Intro: Gm C F Dm A7 Dm
 
 Dm  Gm  C    F
 Santo, saanto

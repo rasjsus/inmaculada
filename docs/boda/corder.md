@@ -1,7 +1,7 @@
 # Cordero #2
 
 ```bash
-gm  bb a7 dm
+
 Dm                   G  Gm
 Cordero de Dios que quitas
 Dm  A7          Dm
