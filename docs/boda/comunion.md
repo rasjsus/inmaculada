@@ -2,14 +2,12 @@
 
 ```bash
 
-CAPO 1
-
 REm                      SOLm
 En tu cuerpo encuentro mi paz Señor
 LA7                REm
 En ti descansa mi alma
                SOLm
-Y esta en mi emoción amado mío
+Y es tal mi emoción amado mío
            REm
 Que tiemblo por ti
 
@@ -30,7 +28,7 @@ Se me derrite por ti    señor
 
 
 REm                    SOLm          LA7
-En tu cuerpo y sangre directo al corazón
+va tu cuerpo y sangre directo al corazón
              REm
 Te refugias en mí
                 SOLm            LA7

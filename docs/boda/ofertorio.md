@@ -33,7 +33,7 @@ confiaré, me entregaré,
 confiaré en Ti, Señor.
       C
 Consagraré mi corazón
-       Gm       F       E
+       Gm       F Dm     E
 a tu amor, mi Dios, mi Rey. (X2)
 
 
