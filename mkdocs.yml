@@ -18,6 +18,13 @@ nav:
       - vamos cantando al señor: entrada/vamos_cantando_al_senior.md
       - yo celebraré: entrada/yo_celebrare.md
       - ven señor no tardes: entrada/ven_senior_no_tardes.md
+      - A tu altar: entrada/a_tu_altar.md
+      - Canta al Señor un canto nuevo: entrada/canta_al_senor_un_canto_nuevo.md
+      - El cielo canta alegria: entrada/el_cielo_canta_alegria.md
+      - El Señor es compasivo: entrada/el_senior_es_compasivo.md
+      - El Señor resucitó: entrada/el_senior_resucito.md
+      - Salmo 62: entrada/salmo_62.md
+      - Venimos hoy a tu altar: entrada/venimos_hoy_a_tu_altar.md
   - Señor:
       - señor (1): senior_ten_piedad/senior_1.md
       - señor (2): senior_ten_piedad/senior_2.md
@@ -32,6 +39,8 @@ nav:
       - gloria (5): gloria/gloria_5.md
       - gloria nortino: gloria/gloria_nortino.md
   - Aleluya:
+      - Aleluya 1: aleluya/aleluya_1.md
+      - Aleluya 2: aleluya/aleluya_2.md
       - himno de paz: aleluya/himno_de_paz.md
       - aleluya D: aleluya/aleluya_d.md
       - aleluya G: aleluya/aleluya_g.md
@@ -42,6 +51,12 @@ nav:
       - padre nuestro recibid: ofertorio/padre_nuestro_recibid.md
       - te presentamos el vino y el pan: ofertorio/te_presentamos_el_vino_y_el_pan.md
       - toma nuestros corazones: ofertorio/toma_nuestros_corazones.md
+      - En este mundo: ofertorio/en_este_mundo.md
+      - Entre tus manos: ofertorio/entre_tus_manos.md
+      - Hemos entregado: ofertorio/hemos_entregado.md
+      - Sobre tu altar: ofertorio/sobre_tu_altar.md
+      - Te ofrecemos padre nuestro: ofertorio/te_ofrecemos_padre_nuestro.md
+      - Vino y pan: ofertorio/vino_y_pan.md
   - Santo:
       - santo (1): santo/santo_1.md
       - santo (2): santo/santo_2.md
@@ -51,11 +66,14 @@ nav:
       - jesus hijo de david: consagracion/jesus_hijo_de_david.md
       - me consagro a ti: consagracion/me_consagro_a_ti.md
       - vive jesus el señor: consagracion/vive_jesus_el_senior.md
+      - Entrare: consagracion/entrare.md
+      - Venimos a adorar: consagracion/venimos_a_adorar.md
   - Cordero:
       - cordero (1): cordero/cordero_1.md
       - cordero (2): cordero/cordero_2.md
       - cordero (3): cordero/cordero_3.md
       - cordero (4): cordero/cordero_4.md
+      - cordero (5): cordero/cordero_5.md
   - Comunión:
       - el señor es mi pastor: comunion/el_senior_es_mi_pastor.md
       - en la eucaristía: comunion/en_la_eucaristia.md
@@ -67,6 +85,16 @@ nav:
       - verbum panis: comunion/verbum_panis.md
       - ya no eres pan y vino: comunion/ya_no_eres_pan_y_vino.md
       - levantate: comunion/levantate.md
+      - Alma misionera: comunion/ALMA_MISIONERA.md
+      - Aqui estoy señor: comunion/aqui_estoy_senior.md
+      - El amor de mi Dios: comunion/el_amor_de_mi_dios.md
+      - Eterno viajer: comunion/eterno_viajero.md
+      - Hambre de Dios: comunion/hambre_de_Dios.md
+      - Mirad jesus resucita: comunion/mirad_jesus_resucita_hoy.md
+      - Renace la esperanza: comunion/renace_la_esperanza.md
+      - Tanto amó Dios al mundo: comunion/tanto_amo_dios_al_mundo.md
+      - Una estrella: comunion/una_estrella.md
+      - Ven y sigueme: comunion/ven_y_sigueme.md
   - Salida:
       - A ti madre de esperanza: salida/a_ti_madre_de_esperanza.md
       - En torno a María: salida/en_torno_a_maria.md
@@ -84,12 +112,52 @@ nav:
       - ven espíritu de Dios: pentecostes/ven_espiritu_de_dios.md
       - el espíritu de Dios: pentecostes/el_espiritu_de_dios.md
       - algo va descendiendo: pentecostes/algo_va_descendiendo.md
+      - Entra: espiritu_santo/entra.md
+      - Haz llover: espiritu_santo/haz_llover.md
+      - Ven espiritu: espiritu_santo/ven_espiritu.md
+      - Ven solo ven: espiritu_santo/ven_solo_ven.md
   - Trinidad:
       - Dios mio, trinidad a quien adoro: trinidad/trinidad_a_quien_adoro.md
       - Dios trino: trinidad/dios_trino.md
       - Gozo de la trinidad: trinidad/gozo_de_la_trinidad.md
   - Pascua:
       - Alegre la mañana: pascua/alegre_la_maniana.md
+  - Alabanzas:
+      - Alabare: alabanzas/alabare.md
+      - Baja el rio: alabanzas/baja_el_rio.md
+      - El leon de la tribu: alabanzas/el_leon_de_la_tribu.md
+      - El poderoso de israel: alabanzas/el_poderoso_de_israel.md
+      - Este dia nos vamos a gozar: alabanzas/este_dia_nos_vamos_a_gozar.md
+      - Granito de mostaza: alabanzas/mostaza.md
+      - Remolineando: alabanzas/remolineando.md
+  - Boda:
+      - Entrada: boda/salmo_115.md
+      - Entrada: boda/desde_que_voy.md
+      - Aleluya: boda/aleluya.md
+      - Ofertorio: boda/quiero_estar_senior.md
+      - Ofertorio: boda/ofertorio.md
+      - Santo: boda/santo.md
+      - Cordero: boda/corder.md
+      - Comunion: boda/comunion.md
+      - Salida: boda/de_aqui_hasta_el_final.md
+      - Salida: boda/forma_de_amar.md
+  - Miercoles de Ceniza:
+      - Caminare: ceniza/caminare.md
+      - Señor: ceniza/senior.md
+      - Con estas cenizas: ceniza/con_estas_cenizas.md
+      - Cordero: ceniza/cordero.md
+      - Perdona a tu pueblo: ceniza/perdona_a_tu_pueblo.md
+      - Pescador de hombres: ceniza/pescador_de_hombres.md
+      - Santo: ceniza/santo.md
+  - Exequias:
+      - Caminare: exequias/caminare.md
+      - Señor: exequias/senior.md
+      - Aleluya: exequias/aleluya.md
+      - Ofertorio: exequias/ofertorio.md
+      - Santo: exequias/santo.md
+      - Cordero: exequias/cordero.md
+      - Comunion: exequias/yo_soy_el_pan_de_vida.md
+      - Salida: exequias/salida.md
 #   - Historial:
 theme:
   name: material

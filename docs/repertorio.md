@@ -63,7 +63,6 @@
   - [santo (3)](santo/santo_3.md)
   - [santo (4)](santo/santo_4.md)
   - [santo tradicional](santo/santo_tradicional.md)
-  - [santo seminario](santo/santo.md)
 
 - Consagracion:
 
