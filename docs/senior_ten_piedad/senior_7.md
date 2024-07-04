@@ -2,7 +2,7 @@
 
 ```bash
 G                      B7
-Señor ten puedad de nosotros
+Señor ten piedad de nosotros
  Em                    C
 Señor ten piedad de nosotros
   Am         A7          D D7
