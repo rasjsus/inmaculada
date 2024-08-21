@@ -15,8 +15,8 @@ A           D    F#m Bm
 Jesús Eucaristía
                  Em    G
 rodeado de sus ángeles
-A               D
-está presente aquí.
+   A               D
+ya está presente aquí.
 
 D                  F#m          G        A
 Nos ponemos de rodillas y el corazón alzamos.
