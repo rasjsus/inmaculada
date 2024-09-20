@@ -36,3 +36,14 @@ danos la paz
 ```
 
 [Volver al esquema -->](../index.md)
+
+FORTE
+
+F F E7 Am
+F F E7 Am
+
+PIANO
+C C E Am
+C C E Am
+
+E7 Am E7 Am Am AM
