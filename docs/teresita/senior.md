@@ -1,25 +1,25 @@
 # Senior
 
 ```bash
-F                       A7
+C                       E7
 Señor ten piedad de nosotros
-Dm                      Bb
+Am                       F
 Señor ten piedad de nosotros
-Gm           G7          C
+Dm           D7          G
 Señor ten piedad de nosotros
 
-F                       A7
+C                       E7
 Cristo ten piedad de nosotros
-Dm                      Bb
+Am                       F
 Cristo ten piedad de nosotros
-Gm           G7          C
+Dm           D7          G
 Cristo ten piedad de nosotros
 
-F                       A7
+C                       E7
 Señor ten piedad de nosotros
-Dm                      Bb
+Am                       F
 Señor ten piedad de nosotros
-Gm           G7          C
+Dm           G          C
 Señor ten piedad de nosotros
 ```
 

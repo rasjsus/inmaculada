@@ -1,6 +1,7 @@
 # Santo #1
 
 ```bash hl_lines="10-18 29-37"
+Intro: C  B7
 Em           D
 Santo es el Señor mi Dios
 C           B7
@@ -8,7 +9,7 @@ Digno de Alabanza
  Em       D
 A él el poder
    C          B7
-Honor Y la Gloria
+el Honor Y la Gloria
 
 Em       D
 Hossana, Hossana
