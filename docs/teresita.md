@@ -12,5 +12,9 @@
 - Comunion: [Incomparable](teresita/incomparable.md)
 - Salida: [A Teresita](teresita/a_teresita.md)
 
+## serenata
+- Canto 1: [Florecilla del carmelo](teresita/florecilla_de_carmelo.md)
+- Canto 2: [El abandono](teresita/el_abandono.md)
+
   Annotations:
   `mkdocs gh-deploy`
