@@ -1,8 +1,11 @@
 # El Profeta
 
-Em   G  D  G
-Am  Em  B7 Em
+Em G D G
+Am Em B7 Em
+
 ```bash
+
+CAPO 5
 Am                C
 Antes que te formaras
               G          C
@@ -11,9 +14,11 @@ REm              LAm
 antes que tu nacieras
        MI7            LAm
 te conocía y te consagré.
-
+Am              C             G              C
 Para ser mi profeta de las naciones yo te escogí.
+ Dm             Am
 irás donde te envíe
+          E7             Am
 y donde te mande proclamarás
 
 (B)
@@ -56,3 +61,5 @@ es hora de luchar
 porque mi pueblo
 sufriendo está.
 ```
+
+[Volver al esquema -->](../seminario.md)
