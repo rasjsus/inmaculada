@@ -3,7 +3,7 @@
 ```bash
 G         C
 Gloria a Dios
-C          G
+D          G
 En las alturas
    C            G
 y paz en la tierra

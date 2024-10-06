@@ -8,7 +8,7 @@
 - Santo: [Santo ](vocacionales/santo.md)
 - Cordero: [Cordero ](vocacionales/cordero.md)
 - Comunion: [El profeta](vocacionales/profeta.md)
-- Salida: [Una entre todas](vocacionales/dijiste_si.md)
+- Salida: [Dijiste si](vocacionales/dijiste_si.md)
 
   Annotations:
   `mkdocs gh-deploy`
