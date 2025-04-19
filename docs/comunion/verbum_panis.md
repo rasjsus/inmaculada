@@ -2,7 +2,7 @@
 
 ```bash hl_lines="13-20"
 CAPO 3
-Intro Am G Am A
+Intro Am G Am Am
 
 Am          G
 Antes del tiempo,
@@ -106,4 +106,4 @@ verbum panis factum est
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y9YXA4G84tk?si=BGLboQr4i_oXlsGL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-[Volver al esquema -->](../fin_anio.md)
+[Volver al esquema -->](../jueves_santo.md)

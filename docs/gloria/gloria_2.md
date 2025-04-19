@@ -3,7 +3,7 @@
 ```bash hl_lines="1-4"
 A                  D         A
 Gloria-a Gloria-a Gloria al Señor
-D             A                  E     D
+D             A                  E     A
 Gloria en el cielo, Gloria en la tierra
 
 A                   D         A
@@ -22,4 +22,4 @@ D                  A                    E
 Con el Espíritu Santo, en la gloria de Dios
 ```
 
-[Volver al esquema -->](../index.md)
+[Volver al esquema -->](../jueves_santo.md)
