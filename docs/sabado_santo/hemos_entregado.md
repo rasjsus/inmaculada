@@ -48,7 +48,7 @@ Y El ahora nos da su vida eter—na.
 
 ```
 
-[Volver al esquema -->](../sabado_santo.md)
+[Volver al esquema -->](../index.md)
 
 
 ## sugerencia

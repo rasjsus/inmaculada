@@ -8,4 +8,4 @@ Aaleluya, Aleluyaaa al Senior
 
 ```
 
-[Volver al esquema -->](../sabado_santo.md)
+[Volver al esquema -->](../index.md)

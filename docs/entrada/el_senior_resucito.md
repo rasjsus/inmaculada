@@ -1,7 +1,7 @@
 # El Señor Resucitó
 
 ```bash
-
+C
 D                     G D
 El Señor Resucitó Aleluuya
                      A       D  G  D

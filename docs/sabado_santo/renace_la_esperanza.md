@@ -86,4 +86,4 @@ si Jesús resucita, otro mañana, pueblo querido, tú vas a ver.
 
 ```
 
-[Volver al esquema -->](../sabado_santo.md)
+[Volver al esquema -->](../index.md)
