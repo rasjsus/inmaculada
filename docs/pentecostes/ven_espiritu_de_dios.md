@@ -39,4 +39,4 @@ Inundame, conduceme con tu amor
 
 ```
 
-[Volver al esquema -->](../index.md)
+[Volver al esquema -->](../pentecostes.md)

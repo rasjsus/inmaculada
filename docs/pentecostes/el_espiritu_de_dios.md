@@ -39,4 +39,4 @@ Dios espíritu, muevete en mí
 
 ```
 
-[Volver al esquema -->](../index.md)
+[Volver al esquema -->](../pentecostes.md)

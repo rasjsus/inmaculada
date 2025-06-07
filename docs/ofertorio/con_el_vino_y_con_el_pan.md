@@ -42,7 +42,8 @@ para que no volvamos atrás
 
 ```
 
-[Volver al esquema -->](../index.md)
+[Volver al esquema -->](../pentecostes.md)
+
 
 ## SUGERENCIAS:
 

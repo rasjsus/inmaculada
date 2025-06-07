@@ -86,4 +86,4 @@ y en un mismo corazón.
 
 ```
 
-[Volver al esquema -->](../index.md)
+[Volver al esquema -->](../pentecostes.md)

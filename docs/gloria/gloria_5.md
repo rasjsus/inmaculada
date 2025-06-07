@@ -33,4 +33,4 @@ en la gloria de Dios padre
 
 ```
 
-[Volver al esquema -->](../index.md)
+[Volver al esquema -->](../pentecostes.md)

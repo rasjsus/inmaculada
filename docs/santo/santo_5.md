@@ -30,4 +30,4 @@ Ho  o sana, Al Se   ño-or
 
 ```
 
-[Volver al esquema -->](../index.md)
+[Volver al esquema -->](../pentecostes.md)

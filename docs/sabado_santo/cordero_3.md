@@ -35,7 +35,7 @@ danos la paz
 
 ```
 
-[Volver al esquema -->](../index.md)
+[Volver al esquema -->](../pentecostes.md)
 
 FORTE
 

@@ -26,4 +26,4 @@ en nombre del señor
 
 ```
 
-[Volver al esquema -->](../index.md)
+[Volver al esquema -->](../pentecostes.md)

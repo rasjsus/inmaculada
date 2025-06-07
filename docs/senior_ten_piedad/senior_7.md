@@ -23,3 +23,5 @@ Señor ten piedad de nosotros
   Am         D          G
 Señor ten piedad de nosotros
 ```
+
+[Volver al esquema -->](../pentecostes.md)

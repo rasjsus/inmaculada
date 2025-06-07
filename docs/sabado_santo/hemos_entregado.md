@@ -48,7 +48,8 @@ Y El ahora nos da su vida eter—na.
 
 ```
 
-[Volver al esquema -->](../index.md)
+[Volver al esquema -->](../pentecostes.md)
+
 
 
 ## sugerencia

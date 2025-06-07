@@ -17,4 +17,4 @@ y todo ha sido creado
 
 ```
 
-[Volver al esquema -->](../index.md)
+[Volver al esquema -->](../pentecostes.md)
