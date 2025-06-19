@@ -39,8 +39,8 @@ Em             Am
 dile con una sonrisa
 F                       G
 que cada día la quieres más
-F                  G               C
-Como la virgen María no hay otra igual
+G                 F  G               C
+Como la virgen María  no hay otra igual
 
 ```
 

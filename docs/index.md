@@ -1,15 +1,14 @@
 # Esquema Sabado Santo
 
-- Entrada: [El señor resucito](entrada/el_senior_resucito.md)
-- Señor ten piedad: [señor ten piedad](senior_ten_piedad/senior_4.md)
-- Gloria: [Gloria](gloria/gloria_5.md)
-- Aleluya: [Aleluya](sabado_santo/aleluya.md)
-- Bendicion del agua: [Bautizame señor](sabado_santo/bautizame_senior.md)
-- Ofertorio: [Hemos entregado](sabado_santo/hemos_entregado.md)
-- Santo: [Santo ](santo/santo_4.md)
-- Cordero: [Cordero 3](sabado_santo/cordero_3.md)
-- Comunion: [Renace la esperanza](sabado_santo/renace_la_esperanza.md)
-- Salida: [El leon de la tribu](sabado_santo/el_leon_de_la_tribu.md)
+- Entrada: [El señor resucito](entrada/venimos_hoy_a_tu_altar.md)
+- Señor ten piedad: [señor ten piedad](senior_ten_piedad/senior_5.md)
+- Gloria: [Gloria](gloria/gloria_1.md)
+- Aleluya: [Aleluya](aleluya/aleluya_1.md)
+- Ofertorio: [Hemos entregado](ofertorio/te_presentamos_el_vino_y_el_pan.md)
+- Santo: [Santo ](santo/santo_3.md)
+- Cordero: [Cordero](cordero/cordero_4)
+- Comunion: [Milagro de amors](comunion/milagro_de_amor.md)
+- Salida: [El leon de la tribu](salida/piensa_en_maria.md)
 
   Annotations:
   `mkdocs gh-deploy`
