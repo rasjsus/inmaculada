@@ -1,4 +1,6 @@
-ALABEMOS A MARÍA.
+# Piensa en María
+
+```bash
 G                  C   D      G
 Alabemos a María, Madre de Dios.
 G                   C   D      G
@@ -13,3 +15,5 @@ C         D      G       Em
 Alabémosla, ensalcémosla, 
        C        D       C     D   G 
 glorifiquémosla   eternamente,  amén.
+```
+[Volver al esquema -->](../maria.md)

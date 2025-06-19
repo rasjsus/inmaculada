@@ -8,7 +8,7 @@
 - Santo: [Santo ](santo/santo_3.md)
 - Cordero: [Cordero 4](cordero/cordero_4.md)
 - Comunion: [Quiero madre](salida/quiero_madre.md)
-- Salida: [en torno a maria](salida/piensa_en_maria.md)
+- Salida: [Piensa en María](salida/piensa_en_maria.md)
 
   Annotations:
   `mkdocs gh-deploy`
