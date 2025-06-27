@@ -1,6 +1,6 @@
 # Perpetuo Socorro
 
-```bash hl_lines="10-21"
+```bash hl_lines="11-22 36-47 60-71 90-101 105-115"
 C
           C                       F
 Me voy convencido, que tú vas conmigo,
