@@ -30,4 +30,4 @@ Ho  o sana, Al Se   ño-or
 
 ```
 
-[Volver al esquema -->](../exequias.md)
+[Volver al esquema -->](../maria.md)

@@ -57,4 +57,4 @@ quiero, Madre, que me lleves a Jesús.
 
 ```
 
-[Volver al esquema -->](../index.md)
+[Volver al esquema -->](../maria.md)
