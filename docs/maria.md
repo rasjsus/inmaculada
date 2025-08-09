@@ -8,7 +8,7 @@
 - Santo: [Santo ](exequias/santo.md)
 - Cordero: [Cordero 4](cordero/cordero_4.md)
 - Comunion: [Quiero madre](salida/quiero_madre.md)
-- Salida: [Perpetuo Socorro](salida/perpetuo_socorro.md)
+- Salida: [Perpetuo Socorro](salida/madre_de_nuestra_alegria.md)
 
   Annotations:
   `mkdocs gh-deploy`

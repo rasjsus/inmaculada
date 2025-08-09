@@ -1,4 +1,4 @@
-# Piensa en María
+# Alabemos a María
 
 ```bash
 G                  C   D      G

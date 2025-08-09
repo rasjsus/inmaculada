@@ -11,7 +11,7 @@ G       D
 Recibe oh Señor
 C                 D
 Toda Nuestra Oblacion
-
+___________________________________
 G                   D
 Toma nuestros corazones
 Em              Bm
@@ -19,14 +19,15 @@ Que ofrecemos a ti
 C             G
 Transforma nuestra ofrenda
          C       D           G
-en el cuerpo y sangre de Jesús (x2)
-
+en el cuerpo y sangre de Jesús 
+___________________________________________
 G             D
-Dios padre Creadro
+Dios padre Creador
         Em             Bm           C
 Te doy gracias por la vida que nos das
    D        C         D
 En cristo Salvador y Rey
+
 
 ```
 
