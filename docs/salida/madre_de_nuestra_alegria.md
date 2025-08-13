@@ -1,6 +1,6 @@
 # Madre de nuestra alegría
 
-```bash hl_lines="1-8
+```bash hl_lines="1-8"
 
 INTRO: D     A     G      A 
 
@@ -16,7 +16,7 @@ G                      A
 Madre inmaculada y bendita
 G                   A
 entre todas las mujeres
-_____________________________________
+---------------------------------
          D.           A
 Desde nazaret hasta belen
            G                A
@@ -36,7 +36,7 @@ para acercarnos a la eucaristía
 para gozar plenamente del pan de vida.
 
 
-______________________________________________
+----------------------------------------
 
 D.                 A
 Madre enseñanos a vivir
@@ -85,4 +85,4 @@ para gozar plenamente del pan de vida.
 
 ```
 
-[Volver al esquema -->](../index.md)
+[Volver al esquema -->](../maria.md)
