@@ -2,44 +2,44 @@
 
 ```bash hl_lines="23"
 
-C           G             F         C
+D           A             G         D
 Cuando te sientas solo y sin amor
-C            G         F           Am
+D           A          G           Bm
 Cuando te sea difícil ser mejor
-Am          Em             F             Am
+Bm          F#m             G             Bm
 Cuando te sientas triste en tu interior
-Am      Em                F
+Bm      F#m                G
 Y necesites mas que comprensión
 
-C          G         F            C
+D           A             G         D
 No te preoucpes que solo no estas
-C          G          F            Am
+D           A          G           Bm
 Alguien contigo y de tu mano va
-Am           Em         F         Am
+Bm           F#m         G         Bm
 Alguien que no te soltará jamás
-Am          Em             F
+Bm          F#m             G
 Cierra tus ojos y abre el corazón
-            G
+            A
 Con una oración
 
-  G                   C
+  A                   D
 Piensa en la virgen María
-           F             C
+           G             D
 Que es la madre que nos cuida
-Em                     Am
+F#m                     Bm
 Siempre que tu se lo pidas
-    F                 G
+    G                 A
 A Jesús le contará de tí
 
-G                   C
+A                   D
 Junta tus manos y dile
-      F              C
+      G              D
 que ella es tu gran amiga
-Em             Am
+F#m             Bm
 dile con una sonrisa
-F                       G
+     G                   A
 que cada día la quieres más
-G                 F  G               C
+A                 G  A               D
 Como la virgen María  no hay otra igual
 
 ```
