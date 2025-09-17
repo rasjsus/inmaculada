@@ -1,7 +1,6 @@
 # Santo 3
 
 ```bash hl_lines="13-19"
-CAPO 1
 
 Bm Em  A   D
 Santo, saanto

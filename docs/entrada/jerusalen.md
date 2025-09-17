@@ -1,21 +1,39 @@
 # Jerusalen Ciudad Santa
 
 ```bash
+CAPO 5
+
+C       F.  G.      C. F G
 JERUSALÉN CIUDAD SANTA,
+C.     F.    G.   C.  7
 JERUSALÉN CELESTIAL,
+       F.      G
 TUS UMBRALES ESTÁN
+    Em.           Am
 PISANDO NUESTROS PIES,
+F.      G.       Em.      Am
 PARA ALABAR AL DIOS DE ISRAEL
+F.      G.        C.   F. G
 PARA ADORAR AL SEÑOR
+C.             F. G.    C. C7
 POR EL SOMOS PUEBLO ELEGIDO,
+F            G         Em.     Am
 NACIÓN CONSAGRADA, SACERDOCIO REAL,
+   F.     G.         C.  F. G
 POR EL VIVIMOS LA UNIDAD.
-JERUSALÉN...
-MIRA A TU PUEBLO REUNIDO,
-MIRA A TU PUEBLO, SEÑOR;
-DANOS CUERPO Y SANGRE
-DE TU HIJO JESUCRISTO
-PARA VIVIR EN COMUNIÓN.
+
+C       F.  G.      C. F G
+JERUSALÉN CIUDAD SANTA,
+C.     F.    G.   C.  7
+JERUSALÉN CELESTIAL,
+       F.      G
+TUS UMBRALES ESTÁN
+    Em.           Am
+PISANDO NUESTROS PIES,
+F.      G.       Em.      Am
+PARA ALABAR AL DIOS DE ISRAEL
+F.      G.        C.   F. G
+PARA ADORAR AL SEÑOR
 ```
 
 [Volver al esquema -->](../seminario.md)
