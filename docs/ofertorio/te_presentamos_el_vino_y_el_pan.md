@@ -35,4 +35,4 @@ fruto de la tierra y del trabajo de los hombres
 
 ```
 
-[Volver al esquema -->](../pentecostes.md)
+[Volver al esquema -->](../index.md)

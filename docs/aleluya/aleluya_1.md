@@ -8,4 +8,4 @@ Aaaleluya, Aleluuuuuu ya
 
 ```
 
-[Volver al esquema -->](../maria.md)
+[Volver al esquema -->](../index.md)

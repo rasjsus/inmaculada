@@ -25,4 +25,4 @@ Danos la paz
 
 ```
 
-[Volver al esquema -->](../maria.md)
+[Volver al esquema -->](../index.md)

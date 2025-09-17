@@ -36,4 +36,4 @@ F.      G.        C.   F. G
 PARA ADORAR AL SEÑOR
 ```
 
-[Volver al esquema -->](../seminario.md)
+[Volver al esquema -->](../index.md)

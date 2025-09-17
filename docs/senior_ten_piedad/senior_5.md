@@ -1,6 +1,6 @@
 # Señor ten piedad
 
-``` bash
+```bash
 Dm          C        Bb    A7   Dm
 Señor ten piedad de noso - o - tros
 Dm          C        Bb    A7   Dm
@@ -16,4 +16,4 @@ Señor ten piedad de noso - o - tros
 
 ```
 
-[Volver al esquema -->](../maria.md)
+[Volver al esquema -->](../index.md)
