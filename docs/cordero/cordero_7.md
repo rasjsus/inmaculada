@@ -1,6 +1,8 @@
 # Cordero 5
 
 ```bash
+CAPO 4
+
 G. C. G. C
 G.          D
 Cordero de Dios
