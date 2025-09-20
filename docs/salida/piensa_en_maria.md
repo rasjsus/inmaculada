@@ -12,7 +12,7 @@ Bm      F#m                G
 Y necesites mas que comprensión
 
 D           A             G         D
-No te preoucpes que solo no estas
+No te preocupes que solo no estas
 D           A          G           Bm
 Alguien contigo y de tu mano va
 Bm           F#m         G         Bm

@@ -17,9 +17,9 @@ D   G    A    D
 Tu eres mi Señor
     Bm        G           A
 Mi bien nada hay fuera de ti
-D            Bm
+D  G.   A    Bm
 Tu eres mi Señor
-   G            A     D
+   G            A     D G D G D
 La parte de mi herencia
 
 D                          G  F# E
