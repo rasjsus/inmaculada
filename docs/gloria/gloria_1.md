@@ -57,7 +57,7 @@ F    C    Bb A7 Dm
 Amen Amen A- a- men
 ```
 
-[Volver al esquema -->](../index.md)
+[Volver al esquema -->](../quince_anios.md)
 
 ## Sugerencias
 

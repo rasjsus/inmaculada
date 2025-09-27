@@ -12,7 +12,7 @@ Bm      F#m                G
 Y necesites mas que comprensión
 
 D           A             G         D
-No te preoucpes que solo no estas
+No te preocupes que solo no estas
 D           A          G           Bm
 Alguien contigo y de tu mano va
 Bm           F#m         G         Bm
@@ -43,7 +43,6 @@ A                 G  A               D
 Como la virgen María  no hay otra igual
 
 ```
-
-[Volver al esquema -->](../index.md)
+[Volver al esquema -->](../quince_anios.md)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jZUfim8fw9w?si=LkXLwU6V83XsokYC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

@@ -30,5 +30,4 @@ F#m Bm
 Hosanna
 
 ```
-
-[Volver al esquema -->](../index.md)
+[Volver al esquema -->](../quince_anios.md)
