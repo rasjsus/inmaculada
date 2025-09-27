@@ -1,7 +1,7 @@
 # Incomparable
 
 ```bash hl_lines="27-64"
-Capo 4
+Capo 3
 
 Intro (primer parrafo)
 
@@ -36,7 +36,7 @@ Incomparable es tu gran
       Em
 amor Señor
          C        D
-Que no pedo comprender
+Que no puedo comprender
       Bm         Em
 que siendo tu el rey
             C
@@ -54,7 +54,7 @@ Incomparable es tu gran
       Em
 amor Señor
          C        D
-Que no pedo comprender
+Que no puedo comprender
       Bm         Em
 que siendo tu el rey
             C

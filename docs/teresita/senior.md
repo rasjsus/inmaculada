@@ -1,6 +1,7 @@
 # Senior
 
 ```bash
+capo 5
 C                       E7
 Señor ten piedad de nosotros
 Am                       F
