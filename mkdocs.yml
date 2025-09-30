@@ -16,6 +16,8 @@ nav:
   - Sabado Santo: sabado_santo.md
   - Pentecostés: pentecostes.md
   - Quince Años: quince_anios.md
+  - Misa de Miercoles: miercoles.md
+  - San Francisco: san_francisco.md
   - Entrada:
       - Dios es amor: entrada/dios_es_amor.md
       - el espiritu del señor: entrada/el_espiritu_del_senior.md
@@ -35,8 +37,8 @@ nav:
       - Salmo 62: entrada/salmo_62.md
       - Venimos hoy a tu altar: entrada/venimos_hoy_a_tu_altar.md
       - Jerusalen: entrada/jerusalen.md
-      - Portones : entrada/portones.md
-      
+      - Portones: entrada/portones.md
+
   - Señor:
       - señor (1): senior_ten_piedad/senior_1.md
       - señor (2): senior_ten_piedad/senior_2.md
