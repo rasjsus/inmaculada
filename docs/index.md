@@ -7,7 +7,7 @@
 - Ofertorio: [Te presentamos el vino y el pan](ofertorio/te_presentamos_el_vino_y_el_pan.md)
 - Santo: [Santo](santo/santo_1.md)
 - Cordero: [Cordero](cordero/cordero_1.md)
-- Comunion: [Hago Nuevas Todas Las Cosas](comunion/en_la_eucaristia.md)
+- Comunion: [En la eucaristía](comunion/en_la_eucaristia.md)
 - Salida: [Granito de Mostaza](alabanzas/mostaza.md)
 
   Annotations:

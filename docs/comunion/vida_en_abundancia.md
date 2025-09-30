@@ -1,6 +1,56 @@
 # Vida en abundancia
 
 ```bash
+CAPO 6
+Intro: C
 
+C
+Los lirios del campo
+F                  G
+  Y las aves del cielo
+C
+No se preocupan
+F                      G
+  Porque están en mis manos
+Am                F
+Tené confianza en mí
+       C           G
+Acá estoy junto a vos
+
+C               F              G
+Amá lo que sos y tus circunstancias
+C            F                      G
+Estoy con vos, con tu cruz en mi espalda
+Am               F
+Todo terminará bien
+C                         G
+Yo hago nuevas todas las cosas
+
+Am   F              C  G
+Yo vengo a traerte vida
+           Am.   F.      C.   G
+Vida en abundancia, en abundancia
+            Am. F                C G
+Yo soy el camino, la verdad y la vida
+             Am   F          C.  G
+Vida en abundancia, en abundancia
+
+No hice al hombre para que esté solo
+Caminen juntos, como hermanos
+Sopórtense mutuamente
+Ámense unos a otros
+La felicidad de la vida eterna
+Empieza conmigo en la tierra
+Sentite vivo
+La fiesta del reino comienza acá
+
+Am   F              C  G
+Yo vengo a traerte vida
+           Am.   F.      C.   G
+Vida en abundancia, en abundancia
+            Am. F                C G
+Yo soy el camino, la verdad y la vida
+             Am   F          C.  G
+Vida en abundancia, en abundancia
 
 ```

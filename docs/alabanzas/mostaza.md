@@ -1,15 +1,15 @@
-#   Granito de mostaza
+# Granito de mostaza
 
-```bash hl_lines="2-4"
+```bash hl_lines="2-13"
 Intro Dm - Am - E - Am (x2)
-            Am          
+            Am
 Si tuvieras fe,
            F          E
 Como un granito de mostaza
-             Am 
+             Am
 Eso dice el Señor
             Am
-Si tuvieras fe, 
+Si tuvieras fe,
             F          E
 Como un granito de mostaza
              Am   A7
@@ -17,7 +17,7 @@ Eso dice el Señor
 
         Dm              Am
 Tú le dirías a las montañas
-    E                    Am 
+    E                    Am
 'Muévanse, muévanse, muévanse'
         Dm             Am
 Tú le dirías a las montañas
@@ -30,26 +30,26 @@ Y las montañas se moverán, se moverán, se moverán
 Y las montañas se moverán, se moverán, se moverán
 
 
-            Am          
+            Am
 Si tuvieras fe,
            F          E
 Como un granito de mostaza
-             Am 
+             Am
 Eso dice el Señor
             Am
-Si tuvieras fe, 
+Si tuvieras fe,
             F          E
 Como un granito de mostaza
              Am   A7
 Eso dice el Señor
 
-         Dm            Am 
+         Dm            Am
 Tú le dirías a los enfermos
-    E                 Am 
+    E                 Am
 'Sánense, sánense, sánense'
-        Dm             Am 
+        Dm             Am
 Tú le dirías a los enfermos
-   E                   Am 
+   E                   Am
 'Sánense, sánense, sánense'
 
         F            E                      Am
@@ -58,14 +58,14 @@ Y los enfermos se sanarán, se sanarán, se sanarán
 Y los enfermos se sanarán, se sanarán, se sanarán
 
 
-            Am          
+            Am
 Si tuvieras fe,
            F          E
 Como un granito de mostaza
-             Am 
+             Am
 Eso dice el Señor
             Am
-Si tuvieras fe, 
+Si tuvieras fe,
             F          E
 Como un granito de mostaza
              Am   A7
@@ -79,32 +79,32 @@ Tú le dirías a los problemas
 Tú le dirías a los problemas
     E                   Am
 'Quítense, quítense, quítense'
- 
+
          F              E                       Am
 Y los problemas se quitarán, se quitarán, se quitarán
          F              E                       Am
 Y los problemas se quitarán, se quitarán, se quitarán
 
-            Am          
+            Am
 Si tuvieras fe,
            F          E
 Como un granito de mostaza
-             Am 
+             Am
 Eso dice el Señor
             Am
-Si tuvieras fe, 
+Si tuvieras fe,
             F          E
 Como un granito de mostaza
              Am   A7
 Eso dice el Señor
 
-        Dm            Am 
+        Dm            Am
 Tú le dirías a los enfermos
-    E                 Am 
+    E                 Am
 'Sánense, sánense, sánense'
-        Dm             Am 
+        Dm             Am
 Tú le dirías a los enfermos
-   E                   Am 
+   E                   Am
 'Sánense, sánense, sánense'
 
         F            E                      Am

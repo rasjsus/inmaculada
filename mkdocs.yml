@@ -38,6 +38,7 @@ nav:
       - Venimos hoy a tu altar: entrada/venimos_hoy_a_tu_altar.md
       - Jerusalen: entrada/jerusalen.md
       - Portones: entrada/portones.md
+      - Alabemos a Maria: entrada/alabemos_a_maria.md
 
   - Señor:
       - señor (1): senior_ten_piedad/senior_1.md
@@ -51,7 +52,9 @@ nav:
       - gloria (3): gloria/gloria_3.md
       - gloria (4): gloria/gloria_4.md
       - gloria (5): gloria/gloria_5.md
+      - Gloria (6): gloria/gloria_6.md
       - gloria nortino: gloria/gloria_nortino.md
+      - gloria in excelsis deo: gloria/Gloria_in_excelsis_deo.md
   - Aleluya:
       - Aleluya 1: aleluya/aleluya_1.md
       - Aleluya 2: aleluya/aleluya_2.md
@@ -59,6 +62,10 @@ nav:
       - himno de paz: aleluya/himno_de_paz.md
       - aleluya D: aleluya/aleluya_d.md
       - aleluya G: aleluya/aleluya_g.md
+  - Honor y Gloria:
+      - Honor y Gloria (1): honor_y_gloria/honor_y_gloria_1.md
+      - Honor y Gloria (2): honor_y_gloria/honor_y_gloria_2.md
+      - Honor y Gloria (3): honor_y_gloria/honor_y_gloria_3.md
   - Ofertorio:
       - con el vino y con el pan: ofertorio/con_el_vino_y_con_el_pan.md
       - con estas ofrendas: ofertorio/con_estas_ofrendas.md
@@ -72,6 +79,7 @@ nav:
       - Sobre tu altar: ofertorio/sobre_tu_altar.md
       - Te ofrecemos padre nuestro: ofertorio/te_ofrecemos_padre_nuestro.md
       - Vino y pan: ofertorio/vino_y_pan.md
+      - Llevemos al Señor: ofertorio/llevemos_al_sr_el_vino_y_el_pan.md
   - Santo:
       - santo (1): santo/santo_1.md
       - santo (2): santo/santo_2.md
@@ -87,13 +95,20 @@ nav:
       - Rendid honor al señor: consagracion/rendid_honor_al_senior.md
       - solo Dios: consagracion/solo_dios.md
       - te entrego: consagracion/te_entrego.md
+      - Rendid honor al Señor: consagracion/rendid_honor_al_senor.md
   - Cordero:
       - cordero (1): cordero/cordero_1.md
       - cordero (2): cordero/cordero_2.md
       - cordero (3): cordero/cordero_3.md
       - cordero (4): cordero/cordero_4.md
       - cordero (5): cordero/cordero_5.md
+      - cordero (6): cordero/corder_6.md
+      - cordero (7): cordero/cordero_7.md
   - Comunión:
+      - Hago Nuevas todas las cosas: comunion/hago_nuevas_todas_las_cosas.md
+      - Hazme un instrumento de tu paz: comunion/hazme_un_instrumento_de_tu_paz.md
+      - Permanecer en ti: comunion/permanecer_en_ti.md
+      - Vida en abundancia: comunion/vida_en_abundancia.md
       - el señor es mi pastor: comunion/el_senior_es_mi_pastor.md
       - en la eucaristía: comunion/en_la_eucaristia.md
       - estoy a la puerta y llamo: comunion/estoy_a_la_puerta_y_llamo.md
@@ -130,6 +145,12 @@ nav:
       - Santa María del Camino: salida/santa_maria_del_camino.md
       - Una entre todas: salida/una_entre_todas.md
       - Dijiste si: salida/dijiste_si.md
+      - Madre de nuestra alegría: salida/madre_de_nuestra_alegria.md
+      - Madre del silencio: salida/madre_del_silencio.md
+      - Perpetuo Socorro: salida/perpetuo_socorro.md
+      - Quiero Madre: salida/quiero_madre.md
+      - Te doy gracias Jesus: salida/te_doy_gracias_jesus.md
+      - Tomaste mis manos: salida/tomaste_mis_manos.md
   - Penteocostés:
       - ven espíritu de Dios: pentecostes/ven_espiritu_de_dios.md
       - el espíritu de Dios: pentecostes/el_espiritu_de_dios.md
@@ -180,6 +201,28 @@ nav:
       - Cordero: exequias/cordero.md
       - Comunion: exequias/yo_soy_el_pan_de_vida.md
       - Salida: exequias/salida.md
+  - Semana Santa:
+      - Amando hasta el extremo: jueves_santo/amando_hasta_el_extremo.md
+      - Pueblo de Reyes: jueves_santo/pueblo_de_reyes.md
+      - Ubi Caritas: jueves_santo/ubi_caritas.md
+      - Un Mandamiento nuevo: jueves_santo/un_mandamiento_nuevo.md
+      - Aleluya: sabado_santo/aleluya.md
+      - Bautizame: sabado_santo/bautizame_senior.md
+      - Bendicion del agua: sabado_santo/bendicion_del_agua.md
+      - Corder: sabado_santo/cordero_3.md
+      - El leon de la tribu de juda: sabado_santo/el_leon_de_la_tribu.md
+      - Gloria: sabado_santo/gloria.md
+      - Hemos entregado: sabado_santo/hemos_entregado.md
+      - Llevemos al Señor el vino y el pan: sabado_santo/llevemos_al_sr_el_vino_y_el_pan.md
+      - Quiero estar Señor: sabado_santo/quiero_estar_senior.md
+      - Renace la esperanza: sabado_santo/renace_la_esperanza.md
+      - Resucitó: sabado_santo/resucito.md
+      - Santo: sabado_santo/santo_3.md
+  - Ramos:
+      - Tu reninaras: ramos/tu_reinaras.md
+      - Tu reino es vida: ramos/tu_reino_es_vida.md
+      - Viva cristo rey: ramos/viva_cristo_rey.md
+
 #   - Historial:
 theme:
   name: material
