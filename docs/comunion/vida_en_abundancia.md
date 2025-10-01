@@ -13,14 +13,14 @@ No se preocupan
 F                      G
   Porque están en mis manos
 Am                F
-Tené confianza en mí
+Ten confianza en mí
        C           G
-Acá estoy junto a vos
+Acá estoy junto a ti
 
 C               F              G
-Amá lo que sos y tus circunstancias
+Amá lo que eres y tus circunstancias
 C            F                      G
-Estoy con vos, con tu cruz en mi espalda
+Estoy contigo, con tu cruz en mi espalda
 Am               F
 Todo terminará bien
 C                         G

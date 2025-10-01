@@ -6,8 +6,8 @@
 - Ofertorio: [Te presentamos el vino y el pan](ofertorio/te_presentamos_el_vino_y_el_pan.md)
 - Santo: [Santo](santo/santo_1.md)
 - Cordero: [Cordero](cordero/cordero_1.md)
-- Comunion: [Hago Nuevas Todas Las Cosas](comunion/hago_nuevas_todas_las_cosas.md)
-- Salida: [Vida en abundancia](comunion/vida_en_abundancia.md)
+- Comunion: [Vida en abundancia](comunion/vida_en_abundancia.md)
+- Salida: [Te doy gracias Jesús](salida/te_doy_gracias_jesus.md)
 
   Annotations:
   `mkdocs gh-deploy`
