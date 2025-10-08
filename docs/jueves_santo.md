@@ -8,9 +8,9 @@
 - Lavatorio de pies: [Un mandamiento nuevo](jueves_santo/un_mandamiento_nuevo.md)
 - Ofertorio: [Ubi caritas](jueves_santo/ubi_caritas.md)
 - Santo: [Santo ](santo/santo_3.md)
-- Cordero: [Cordero 3](cordero/cordero_capo_3_G)
+- Cordero: [Cordero 3](cordero/corder_6.md)
 - Comunion: [Tu Señor](comunion/verbum_panis.md)
-- Salida: [Una entre todas](salida/bendito)
+- Salida: [Una entre todas](salida/una_entre_todas.md)
 
 bendito
 el rey del universo
@@ -18,5 +18,5 @@ solo dios capo 3 g
 rendir honor al señor capo 5 G
 entrare capo 3 C
 
-  Annotations:
-  `mkdocs gh-deploy`
+Annotations:
+`mkdocs gh-deploy`

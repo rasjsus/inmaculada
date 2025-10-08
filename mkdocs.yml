@@ -46,6 +46,8 @@ nav:
       - señor (3): senior_ten_piedad/senior_3.md
       - señor (4): senior_ten_piedad/senior_4.md
       - señor (5): senior_ten_piedad/senior_5.md
+      - señor (6): senior_ten_piedad/senior_6.md
+      - señor (7): senior_ten_piedad/senior_7.md
   - Gloria:
       - gloria (1): gloria/gloria_1.md
       - gloria (2): gloria/gloria_2.md
@@ -85,6 +87,8 @@ nav:
       - santo (2): santo/santo_2.md
       - santo (3): santo/santo_3.md
       - santo (4): santo/santo_4.md
+      - santo (5): santo/santo_5.md
+      - santo Tradicional: santo/santo_tradicional.md
   - Consagracion:
       - jesus hijo de david: consagracion/jesus_hijo_de_david.md
       - me consagro a ti: consagracion/me_consagro_a_ti.md
@@ -92,7 +96,7 @@ nav:
       - Entrare: consagracion/entrare.md
       - Venimos a adorar: consagracion/venimos_a_adorar.md
       - Dame tu mano: consagracion/dame_tu_mano.md
-      - Rendid honor al señor: consagracion/rendid_honor_al_senior.md
+      - Rendid honor al señor: consagracion/rendid_honor_al_senor.md
       - solo Dios: consagracion/solo_dios.md
       - te entrego: consagracion/te_entrego.md
       - Rendid honor al Señor: consagracion/rendid_honor_al_senor.md
@@ -151,6 +155,7 @@ nav:
       - Quiero Madre: salida/quiero_madre.md
       - Te doy gracias Jesus: salida/te_doy_gracias_jesus.md
       - Tomaste mis manos: salida/tomaste_mis_manos.md
+      - Niña que nacio: salida/ninia_que_nacio.md
   - Penteocostés:
       - ven espíritu de Dios: pentecostes/ven_espiritu_de_dios.md
       - el espíritu de Dios: pentecostes/el_espiritu_de_dios.md
@@ -163,6 +168,7 @@ nav:
       - Dios mio, trinidad a quien adoro: trinidad/trinidad_a_quien_adoro.md
       - Dios trino: trinidad/dios_trino.md
       - Gozo de la trinidad: trinidad/gozo_de_la_trinidad.md
+      - Gloria grinitario: trinidad/gloria_trinitario.md
   - Pascua:
       - Alegre la mañana: pascua/alegre_la_maniana.md
   - Alabanzas:
@@ -222,6 +228,35 @@ nav:
       - Tu reninaras: ramos/tu_reinaras.md
       - Tu reino es vida: ramos/tu_reino_es_vida.md
       - Viva cristo rey: ramos/viva_cristo_rey.md
+  - Teresita:
+      - A Teresita: teresita/a_teresita.md
+      - Aleluya: teresita/aleluya.md
+      - Cordero sevillano: teresita/cordero_sevillano.md
+      - De aquí hasta el final: teresita/de_aqui_hasta_el_final.md
+      - El abandono: teresita/el_abandono.md
+      - En la eucaristía: teresita/en_la_eucaristia.md
+      - Estoy a la puerta y llamo: teresita/estoy_a_la_puerta_y_llamo.md
+      - Florecilla del carmelo: teresita/florecilla_de_carmelo.md
+      - Gloria: teresita/gloria_1.md
+      - Incomparable: teresita/incomparable.md
+      - Santo: teresita/santo_1.md
+      - Señor ten piedad: teresita/senior.md
+      - Toma nuestros corazones: teresita/toma_nuestros_corazones.md
+  - Vocacionales:
+      - Aleluya: vocacionales/aleluya.md
+      - Cordero: vocacionales/cordero.md
+      - Dijiste si: vocacionales/dijiste_si.md
+      - Gloria: vocacionales/gloria.md
+      - Jerusalen: vocacionales/jerusalen.md
+      - Profeta: vocacionales/profeta.md
+      - Santo: vocacionales/santo.md
+      - Señor: vocacionales/senior.md
+      - Sobre tu altar: vocacionales/sobre_tu_altar.md
+  - Villancicos:
+      - Campana sobre campana: villancicos/Campana_sobre_campana.md
+      - El niño del tambor: villancicos/El_ninio_del_tambor.md
+      - Peces en el rio: villancicos/Peces_en_el_rio.md
+      - Adestes Fideles: navidad/adestes_fideles.md
 
 #   - Historial:
 theme:
@@ -253,6 +288,6 @@ markdown_extensions:
   - attr_list
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - pymdownx.tabbed:
       alternate_style: true
