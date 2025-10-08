@@ -40,4 +40,4 @@ C             B7
 Hossana, al Señor
 ```
 
-[Volver al esquema -->](../index.md)
+[Volver al esquema -->](../miercoles.md)

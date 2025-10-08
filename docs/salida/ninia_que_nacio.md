@@ -39,3 +39,5 @@ A ser más servicial
    C              D
 Y a darme a los demás
 ```
+
+[Volver al esquema -->](../miercoles.md)

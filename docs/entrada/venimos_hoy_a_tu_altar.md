@@ -26,4 +26,4 @@ Las puestas del sol
 
 ```
 
-[Volver al esquema -->](../index.md)
+[Volver al esquema -->](../miercoles.md)

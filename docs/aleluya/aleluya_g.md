@@ -7,4 +7,4 @@ G         Em        Am  D7  G
 Aaleluya, Aaleluya, Ale-lu-uya
 ```
 
-[Volver al esquema -->](../index.md)
+[Volver al esquema -->](../miercoles.md)
