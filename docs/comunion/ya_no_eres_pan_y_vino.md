@@ -2,6 +2,7 @@
 
 ```bash hl_lines="23-34"
 CAPO 1
+C F C F C G C
 
 C           F      C
 Ya no eres pan y vino

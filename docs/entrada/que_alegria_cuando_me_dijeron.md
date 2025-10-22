@@ -1,12 +1,13 @@
 # Que alegría cuando me dijeron
 
 ```bash hl_lines="10-17"
+CAPO 3
 C
 ¡Que alegria cuando me dijeron
 G
 Vamos a la casa del señor
-C                              F
-Ya que estan pisando nuestros pies
+C                              F Fm
+Ya  estan pisando nuestros pies
       C         G    C   G C
 Tus umbrales Jerusalen!
 
@@ -14,7 +15,7 @@ C                 Am
 Jerusalen esta fundada
       Dm              G7
 como ciudad bien compacta
-C  C7              F
+C  C7              F Fm
 alla suben las tribus,
        C      G    C
 las tribus del señor.
