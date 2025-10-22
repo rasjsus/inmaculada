@@ -37,3 +37,5 @@ Por la casa del señor nuestro Dios
 Te deseo todo bien.
 
 ```
+
+[Volver al esquema -->](../miercoles.md)

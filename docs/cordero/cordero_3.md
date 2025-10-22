@@ -2,8 +2,6 @@
 
 ```bash
 
-Capo 1
-
 G
 Cordero de Dios
                Em
@@ -35,7 +33,7 @@ danos la paz
 
 ```
 
-[Volver al esquema -->](../index.md)
+[Volver al esquema -->](../miercoles.md)
 
 FORTE
 

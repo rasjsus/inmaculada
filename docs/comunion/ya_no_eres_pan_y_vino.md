@@ -59,7 +59,7 @@ que como no te voy a dorar
 
 ```
 
-[Volver al esquema -->](../index.md)
+[Volver al esquema -->](../miercoles.md)
 
 ## SUGERENCIAS
 

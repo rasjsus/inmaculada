@@ -30,4 +30,4 @@ Madre del salvador
 
 ```
 
-[Volver al esquema -->](../index.md)
+[Volver al esquema -->](../miercoles.md)

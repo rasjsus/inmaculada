@@ -19,7 +19,7 @@ Que ofrecemos a ti
 C             G
 Transforma nuestra ofrenda
          C       D           G
-en el cuerpo y sangre de Jesús 
+en el cuerpo y sangre de Jesús
 ___________________________________________
 G             D
 Dios padre Creador
@@ -31,7 +31,7 @@ En cristo Salvador y Rey
 
 ```
 
-[Volver al esquema -->](../pentecostes.md)
+[Volver al esquema -->](../miercoles.md)
 
 ## Sugerencias
 
