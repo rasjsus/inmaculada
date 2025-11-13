@@ -18,5 +18,5 @@ Seeñor ten piedad
 
 ```
 
-[Volver al esquema -->](../jueves_santo.md)
+[Volver al esquema -->](../miercoles.md)
 
