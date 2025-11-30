@@ -7,4 +7,4 @@ G      D        A     D
 Aaaleluya, Aleluuuuuu ya
 
 ```
-[Volver al esquema -->](../quince_anios.md)
+[Volver al esquema -->](../adviento.md)
