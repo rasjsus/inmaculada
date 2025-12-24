@@ -18,6 +18,13 @@ Que los ángeles tocan
       G           C
 ¿Qué nuevas nos traéis?
 
+C       F         C
+Belén, campanas de Belén
+F                C
+Que los ángeles tocan
+      G           C
+¿Qué nuevas nos traéis?
+
 C
 Reunido tu rebaño
 G   D7         G7    C
@@ -27,6 +34,12 @@ Voy a llevar al portal
 G     D7  G7         C
 Requesón, manteca y vino
 
+C        F          C
+Belén, campanas de Belén
+F                C
+Que los ángeles tocan
+      G          C
+¿Qué nuevas nos traéis?
 C        F          C
 Belén, campanas de Belén
 F                C
@@ -49,6 +62,12 @@ F                C
 Que los ángeles tocan
      G           C
 ¿Qué nuevas nos traéis?
+C        F         C
+Belén, campanas de Belén
+F                C
+Que los ángeles tocan
+     G           C
+¿Qué nuevas nos traéis?
 
 C                  G7
 Campana sobre campana
@@ -58,6 +77,19 @@ C                    G7
 En una cuna a esta hora
 Dm     G7         C
 Acaba Dios de nacer
+
+C        F         C
+Belén, campanas de Belén
+F                C
+Que los ángeles tocan
+     G           C
+¿Qué nuevas nos traéis?
+C        F         C
+Belén, campanas de Belén
+F                C
+Que los ángeles tocan
+     G           C
+¿Qué nuevas nos traéis?
 
 ```
 

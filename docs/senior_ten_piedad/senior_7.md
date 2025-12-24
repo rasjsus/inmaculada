@@ -9,7 +9,7 @@ Señor ten piedad de nosotros
 Señor ten piedad de nosotros
 
 G                      B7
-Cristo ten puedad de nosotros
+Cristo ten piedad de nosotros
  Em                    C
 Cristo ten piedad de nosotros
   Am         A7          D D7
