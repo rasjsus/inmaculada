@@ -1,6 +1,6 @@
 # Esquema De Fin de Año
 
-- Entrada: [Adestes Fideles](navidad/adestes_fideles.md)
+- Entrada: [Adeste Fideles](navidad/adeste_fideles.md)
 - Señor: [Señor ten piedad](vocacionales/senior.md)
 - Gloria: [Gloria](vocacionales/gloria.md)
 - Aleluya: [Aleluya](aleluya/aleluya_d.md)
