@@ -20,7 +20,7 @@
 - Adorar al niño: [Hacia Belen va una burra](villancicos/hacia_belen_va_una_burra.md)
 - Adorar al niño: [Llega pecador](villancicos/llega_llega_pecador.md)
 - Adorar al niño: [Hacia Belen va una burra](villancicos/hacia_belen_va_una_burra.md)
-- 
+- Adorar al niño: [Hacia Belen va una burra](villancicos/noche_de_paz.md)
 
   Annotations:
   `mkdocs gh-deploy`
