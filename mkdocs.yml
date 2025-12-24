@@ -20,6 +20,7 @@ nav:
   - San Francisco: san_francisco.md
   - Fieles Difuntos: fieles_difuntos.md
   - Adviento: adviento.md
+  - Navidad: navidad.md
   - Entrada:
       - Dios es amor: entrada/dios_es_amor.md
       - el espiritu del señor: entrada/el_espiritu_del_senior.md
@@ -258,7 +259,13 @@ nav:
       - Campana sobre campana: villancicos/Campana_sobre_campana.md
       - El niño del tambor: villancicos/El_ninio_del_tambor.md
       - Peces en el rio: villancicos/Peces_en_el_rio.md
-      - Adestes Fideles: navidad/adestes_fideles.md
+      - Adeste Fideles: navidad/adeste_fideles.md
+      - Pastores venid: villancicos/pastores_venid.md
+      - Vamos pastores vamos: villancicos/vamos_pastores_vamos.md
+      - Los pastores a Belén: villancicos/los_pastores_a_bele.md
+      - Hacia Belen va una burra: villancicos/hacia_belen_va_una_burra.md
+      - Llega pecador: villancicos/llega_llega_pecador.md
+
 
 #   - Historial:
 theme:
