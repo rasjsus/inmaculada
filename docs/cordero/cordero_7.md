@@ -25,4 +25,4 @@ danos hoy danos hoy la paz
 
 ```
 
-[Volver al esquema -->](../quince_anios.md)
+[Volver al esquema -->](../epifania_del_senior.md)
