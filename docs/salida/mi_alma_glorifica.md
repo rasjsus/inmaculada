@@ -42,4 +42,4 @@ como había prometido a nuestros padres,
 a Abraham y descendencia para siempre.
 ```
 
-[Volver al esquema -->](../anio_nuevo.md)
+[Volver al esquema -->](../fin_anio.md)
