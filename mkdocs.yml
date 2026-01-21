@@ -140,6 +140,7 @@ nav:
       - presentacion del señor: comunion/presentacion_del_senior.md
       - Una estrella: comunion/una_estrella.md
       - Ven y sigueme: comunion/ven_y_sigueme.md
+      - Ven y sigueme Pascua Joven: comunion/ven_y_sigueme_pascua_joven.md
   - Salida:
       - A ti madre de esperanza: salida/a_ti_madre_de_esperanza.md
       - En torno a María: salida/en_torno_a_maria.md
@@ -266,7 +267,6 @@ nav:
       - Los pastores a Belén: villancicos/los_pastores_a_bele.md
       - Hacia Belen va una burra: villancicos/hacia_belen_va_una_burra.md
       - Llega pecador: villancicos/llega_llega_pecador.md
-
 
 #   - Historial:
 theme:
