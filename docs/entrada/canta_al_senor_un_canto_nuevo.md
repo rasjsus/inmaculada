@@ -1,5 +1,5 @@
 # Canta al señor un canto nuevo
-
+balada 1 tiempo 130
 ```bash hl_lines="2-6"
 
  A                            F#m
