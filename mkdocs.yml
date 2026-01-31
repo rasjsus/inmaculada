@@ -22,6 +22,11 @@ nav:
   - Adviento: adviento.md
   - Navidad: navidad.md
   - Epifanía del señor: epifania_del_senior.md
+  - Adviento:
+        - Este pan y vino: adviento/este_pan_y_vino.md
+        - La virgen sueña caminos: adviento/la_virgen_suena_caminos.md
+        - Ven señor no tardes más: adviento/ven_senior_no_tardes_mas_ven_senior_jesus.md
+        - Ven señor mi Dios: adviento/ven_señor_mi_dios.md
   - Entrada:
       - Alegria de vivir: entrada/alegria_de_vivir.md
       - Dios es amor: entrada/dios_es_amor.md
@@ -41,10 +46,10 @@ nav:
       - El Señor resucitó: entrada/el_senior_resucito.md
       - Salmo 62: entrada/salmo_62.md
       - Venimos hoy a tu altar: entrada/venimos_hoy_a_tu_altar.md
+      - Vamos caminando: entrada/vamos_caminando.md
       - Jerusalen: entrada/jerusalen.md
       - Portones: entrada/portones.md
       - Alabemos a Maria: entrada/alabemos_a_maria.md
-
   - Señor:
       - señor (1): senior_ten_piedad/senior_1.md
       - señor (2): senior_ten_piedad/senior_2.md
@@ -85,6 +90,7 @@ nav:
       - Hemos entregado: ofertorio/hemos_entregado.md
       - Pan y vino sobre el altar: ofertorio/por_los_hombres.md
       - Sobre tu altar: ofertorio/sobre_tu_altar.md
+      - Quiero estar en tu presencia: ofertorio/quiero_estar_senior_en_tu_presencia.md
       - Te ofrecemos padre nuestro: ofertorio/te_ofrecemos_padre_nuestro.md
       - Vino y pan: ofertorio/vino_y_pan.md
       - Llevemos al Señor: ofertorio/llevemos_al_sr_el_vino_y_el_pan.md
@@ -114,12 +120,14 @@ nav:
       - cordero (5): cordero/cordero_5.md
       - cordero (6): cordero/corder_6.md
       - cordero (7): cordero/cordero_7.md
+      - cordero (8): cordero/cordero_8.md
   - Comunión:
       - Bienaventurados: comunion/bienaventurados.md
       - Hago Nuevas todas las cosas: comunion/hago_nuevas_todas_las_cosas.md
       - Hazme un instrumento de tu paz: comunion/hazme_un_instrumento_de_tu_paz.md
       - Permanecer en ti: comunion/permanecer_en_ti.md
       - Vida en abundancia: comunion/vida_en_abundancia.md
+      - Este es el cordero de Dios: comunion/este_es_el_cordero.md
       - el señor es mi pastor: comunion/el_senior_es_mi_pastor.md
       - en la eucaristía: comunion/en_la_eucaristia.md
       - estoy a la puerta y llamo: comunion/estoy_a_la_puerta_y_llamo.md
@@ -165,6 +173,8 @@ nav:
       - Tomaste mis manos: salida/tomaste_mis_manos.md
       - Ven y reina Madre de Dios: salida/ven_y_reina_madre_de_dios.md
       - Niña que nacio: salida/ninia_que_nacio.md
+      - Mi alma glorifica: salida/mi_alma_glorifica.md
+      - Somos del señor: salida/somos_del_senior.md
   - Penteocostés:
       - ven espíritu de Dios: pentecostes/ven_espiritu_de_dios.md
       - el espíritu de Dios: pentecostes/el_espiritu_de_dios.md
@@ -207,6 +217,11 @@ nav:
       - Perdona a tu pueblo: ceniza/perdona_a_tu_pueblo.md
       - Pescador de hombres: ceniza/pescador_de_hombres.md
       - Santo: ceniza/santo.md
+  - Navidad:
+      - La familia sagrada: navidad/la_familia_sagrada.md
+      - Los Reyes Magos: navidad/los_reyes_magos.md
+      - Venid fieles todos: navidad/venid_fieles_todos.md
+      - Y la palabra se hizo carne: navidad/y_la_palabra_se_hizo_carne.md 
   - Exequias:
       - Caminare: exequias/caminare.md
       - Señor: exequias/senior.md
@@ -271,6 +286,8 @@ nav:
       - Los pastores a Belén: villancicos/los_pastores_a_bele.md
       - Hacia Belen va una burra: villancicos/hacia_belen_va_una_burra.md
       - Llega pecador: villancicos/llega_llega_pecador.md
+      - Duerme y no llores: villancicos/duerme_y_no_llores.md
+      - Noche de paz: villancicos/noche_de_paz.md
 
 #   - Historial:
 theme:
