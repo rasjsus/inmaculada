@@ -1,13 +1,14 @@
 # Esquema Ordinario 
-- Entrada: [Vamos cantando al señor](entrada/canta_al_senor_un_canto_nuevo.md)
+
+- Entrada: [Alegría de vivir](entrada/alegría_de_vivir.md)
 - Señor ten piedad: [señor ten piedad](senior_ten_piedad/senior_5.md)
 - Gloria: [Gloria](gloria/gloria_5.md)
 - Aleluya: [Aleluya](aleluya/aleluya_3.md)
-- Ofertorio: [Quiero estar señor](ofertorio/con_el_vino_y_con_el_pan.md)
-- Santo: [Santo](santo/santo_tradicional.md)
+- Ofertorio: [Pan y vino sobre el altar](ofertorio/por_los_hombres.md)
+- Santo: [Santo](santo/santo_3.md)
 - Cordero: [Cordero](cordero/cordero_3.md)
-- Comunion: [En la eucaristía](comunion/ven_y_sigueme_pascua_joven.md)
-- Salida: [Ven y sigueme](comunion/ven_y_sigueme.md)
+- Comunion: [Bienaventurados](comunion/bienaventurados.md)
+- Salida: [Ven y reina Madre de Dios](salida/ven_y_reina_madre_de_dios.md)
 
   Annotations:
   `mkdocs gh-deploy`
