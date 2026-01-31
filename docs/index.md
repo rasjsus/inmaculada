@@ -1,6 +1,6 @@
 # Esquema Ordinario 
 
-- Entrada: [Alegría de vivir](entrada/alegría_de_vivir.md)
+- Entrada: [Alegría de vivir](entrada/alegria_de_vivir.md)
 - Señor ten piedad: [señor ten piedad](senior_ten_piedad/senior_5.md)
 - Gloria: [Gloria](gloria/gloria_5.md)
 - Aleluya: [Aleluya](aleluya/aleluya_3.md)
