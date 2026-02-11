@@ -2,32 +2,36 @@
 Jesed
 
 ```bash
-LA           DO#m FA#m         DO#m
+A            C#m   F#m          C#m
 Descansa en Dios,   siente su amor;
-    SIm         RE         MI
+    Bm         D          E
 que todo lo que eres es de Él.
-LA           DO#m       FA#m      DO#m
+A           C#m       F#m      C#m
 Descansa En Dios,         hablándole;
-SIm      FA#m7   RE    MI   LA
+Bm      F#m7    D-E   A
 Alma mía, Él te trasformó.
 
+A             C#m F#m         C#m
 Descansa en Dios, que Él se quedó
+   Bm         D           E
 En este pequeño y tierno pan
+A            C#m  F#m          C#m
 Descansa en Dios, entra en su paz
+Bm     F#m       D-E  A
 Alma mía, Él te salvará.
 
 Coro:
-    LA   MI       FA#m              MI
+    A     E       F#m            E
 Por eso hoy confiaré hasta el final,
-RE             MI DO#m      FA#m
+D              E  C#m      F#m
 porque solo en ti multiplicaré
-SIm         RE       MI
+Bm          D        E
 lo que Tú hiciste en mí.
-    LA   MI       FA#m             MI
+    A   E       F#m             E
 Por eso hoy me alimento de tu pan,
-RE           MI DO#m       FA#m
+D            E  C#m       F#m
 porque solo así me convertirás
-SIm          RE       MI
+Bm          D   E    A
 En un instrumento de paz
 
 Descansa en Dios, en su bondad

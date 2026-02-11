@@ -3,6 +3,8 @@ Jesed
 
 ```bash hl_lines"
 
+C
+
 ¡Solo Dios! ¡solo Dios!
 En tus atrios Señor, quiero estar.
 Tu mi tesoro y porción, mi delicia, Señor;

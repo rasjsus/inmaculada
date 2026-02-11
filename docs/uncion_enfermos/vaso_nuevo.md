@@ -19,6 +19,11 @@ como el barro en manos del alfarero;
 Toma mi vida, hazla de nuevo,
           DO-SOL      DO   SOL
 yo quiero ser un vaso nuevo.
+            DO7        FA  FAm
+Toma mi vida, hazla de nuevo,
+          DO-SOL      DO   SOL
+yo quiero ser un vaso nuevo.
+
  
 DO     LAm      FA  SOL
 Te conocí y te amé,

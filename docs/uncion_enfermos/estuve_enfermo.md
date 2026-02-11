@@ -2,58 +2,75 @@
 Jesed
 
 ```bash
-DO                                 FA
+CAPO 3
 
+C                        F
 Estuve enfermo y me visitaste
-
-         lam                  SOL7
-
+       Am              G
 senti dolor y me aliviaste
-
-DO                                   SOL
-
+C                         F
 estuve triste y me consolaste
-
-           rem                      SOL
-
+        Am               G
 estuve solo y me acompañaste
-
  
 
-DO                  FA              lam           SOL
-
+C             F        Am     G      
 Dime cuando hice todo eso JESUS
-
-DO               FA            lam         SOL
-
+C           F         Am         G
 yo no te recuerdo ni triste ni solo
-
-DO                   FA           lam              SOL
-
+C               F        Am        G
 si estuviste enfermo yo no lo recuerdo
-
-DO               FA        SOL
-
+C       F         G
 dime cuando te visite ..
 
  
-
-DO                       SOL     DO                SOL
-
+               C                   F
 Fue con cada enfermo y con cada pobre
-
-DO                        SOL    DO              SOL
-
+              Am              G
 fue con cada hermano en necesidad
-
-DO                   SOL       DO                 SOL
-
+             C                    F
 cuando los cuidaste, cuando los amaste
-
-DO                  SOL DO             SOL
-
+             Am                 G
 conmigo lo hiciste y me consolaste.
 
- 
+Guitarra  -  C F Am G
+
+C             F        Am     G      
+Dime cuando hice todo eso JESUS
+C           F         Am         G
+yo no te recuerdo ni triste ni solo
+C               F        Am        G
+si estuviste enfermo yo no lo recuerdo
+C       F         G
+dime cuando te visite ..
+
+               C                   F
+Fue con cada enfermo y con cada pobre
+              Am              G
+fue con cada hermano en necesidad
+             C                    F
+cuando los cuidaste, cuando los amaste
+             Am                 G
+conmigo lo hiciste y me consolaste.
+
+
+              F
+Entra en el reino
+              Am
+Entra en mi casa
+              F
+Que ya en el cielo
+            C   G
+Tienes un hogar
+
+              F
+Entra en el reino
+              Am
+Entra en mi casa
+              F
+Que ya en el cielo
+            C   
+Tienes un hogar
+
 
 ```

@@ -1,7 +1,7 @@
 # El Espíritu de Dios está en este lugar
 
 ```bash hl_lines="1-4"
-C
+D
 El Espíritu de Dios está en este lugar
 El Espíritu de Dios se mueve en este lugar
 Está aquí para consolar

@@ -1,40 +1,42 @@
 # Pan y vino sobre el altar
 
 ```bash
-       LA 	    RE        MI  RE
+Intro: Am Dm G C
+
+         C                     G
 Por los niños que empiezan la vida,
-        LA          RE         MI-RE
+         C           F         G
 por los hombres sin techo ni hogar,
-        LA          RE        MI    RE
+          C                      G
 por los pueblos que sufren la guerra
-       LA       MI        LA-LA7
+       F         G        C
 te ofrecemos el vino y el pan.
 
-RE                    MI
+F                     G
 Pan y vino sobre el altar
-RE               LA
+F       G        C
 son ofrendas de amor,
-      DO#m   FA#m   RE
+Am                  Dm
 pan y vino serán después
-   MI  	              LA-RE-MI-RE
+     G                C
 tu cuerpo y sangre, Señor.
 
-        LA 	    RE     MI  RE
+         C                     G
 Por los hombres que viven unidos,
-        LA 	    RE        MI RE
+         C           F         G
 por los hombres que buscan la paz,
-        LA 	    RE      MI   RE
+          C                      G
 por los pueblos que no te conocen,
-       LA       MI        LA LA7
+       F         G        C
 te ofrecemos el vino y el pan.
 
-     LA        RE         MI   RE
+       C                     G
 Por aquellos a quienes queremos,
-      LA       RE          MI  RE
+       C           F         G
 por nosotros y nuestra amistad,
-        LA      RE        MI    RE
+        C                      G
 por los vivos y por los difuntos,
-       LA       MI        LA-LA7
+       F         G        C
 te ofrecemos el vino y el pan.
 ```
 [Volver al esquema -->](../uncion_enfermos.md)
