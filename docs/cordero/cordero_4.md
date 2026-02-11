@@ -25,4 +25,4 @@ Danos la paz
 
 ```
 
-[Volver al esquema -->](../miercoles.md)
+[Volver al esquema -->](../uncion_enfermos.md)

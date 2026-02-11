@@ -37,4 +37,4 @@ por los vivos y por los difuntos,
        LA       MI        LA-LA7
 te ofrecemos el vino y el pan.
 ```
-[Volver al esquema -->](../index.md)
+[Volver al esquema -->](../uncion_enfermos.md)

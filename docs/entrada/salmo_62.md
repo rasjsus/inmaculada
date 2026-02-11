@@ -32,4 +32,4 @@ G       Em            A
 de él viene mi esperanza
 ```
 
-[Volver al esquema -->](../quince_anios.md)
+[Volver al esquema -->](../uncion_enfermos.md)
