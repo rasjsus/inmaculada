@@ -1,7 +1,7 @@
 # Sáname Señor
 Rafael Moreno
 
-```bash hl_lines"
+```bash
 D
 Hoy señor Jesús
 Vengo ante Ti para alabarte

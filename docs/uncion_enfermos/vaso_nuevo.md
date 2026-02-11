@@ -1,6 +1,6 @@
 # Vaso nuevo
 
-```bash hl_lines"
+```bash
 
 DO             LAm         FA  SOL
 Gracias quiero darte, por amarme;

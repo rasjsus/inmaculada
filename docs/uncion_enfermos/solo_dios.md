@@ -1,7 +1,7 @@
 # Solo Dios
 Jesed
 
-```bash hl_lines"
+```bash
 
 C
 

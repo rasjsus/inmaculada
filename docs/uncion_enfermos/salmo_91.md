@@ -1,7 +1,7 @@
 # Salmo 91 (Tu que habitas)
 Misio País
 
-```bash hl_lines"
+```bash
           LA                  LAsus2 MI
 Tú, que habitas al amparo del Altísimo
      LA                 MI
