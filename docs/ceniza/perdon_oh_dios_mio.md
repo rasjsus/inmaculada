@@ -1,42 +1,46 @@
-# Perdon oh Dios mío
+# Perdona Oh Dios Mio
 
 ```bash hl_lines="1-6"
-Am Dm E
-Perdona a tu pueblo, Señor
-E7 F
-Perdona a tu pueblo
-E Am
-Perdónale, Señor
-Am F G C
-Por tu poder y amor inefable,
-Dm E E7 F
-por tu misericordia entrañable,
-E Am
-perdónanos Señor.
-Am F G C
-Somos el pueblo que has elegido
-Dm E E7 F
-y con tu sangre lo has redimido,
-E Am
-perdónanos Señor.
-Am F G C
-Reconocemos nuestro pecado
-Dm E E7 F
-que tantas veces has perdonado,
-E Am
-perdónanos Señor.
-Am F G C
-Dios de la fiel y eterna Alianza,
-Dm E E7 F
-en ti ponemos nuestra esperanza,
-E Am
-perdónanos Señor.
-Am F G C
-Desde la Cruz nos diste a tu Madre,
-Dm E E7 F
-vuélvenos al abrazo del Padre,
-E Am
-perdónanos Señor.
+Em     Am       Em B7
+Perdón Oh Dios Mío
+Em          G
+Perdón e indulgencia
+   C    Am         B7
+Perdón y clemencia
+   Em  B7   Em     B7
+Perdón y piedad. (2)
+
+
+ESTRIBILLO 1:
+Em   Am     Em B7 Em            G
+Pequé ya mi alma, su culpa confiesa
+  C          Am B7    Em B7    Em  B7
+mil veces me pesa de tanta maldad.
+
+
+ESTRIBILLO 2:
+Mil veces me pesa de haber obstinado
+tu pecho rasgado ¡Oh Suma Bondad!
+
+
+ESTRIBILLO 3:
+Yo fui quien del duro madero inclemente
+te puso pendiente con vil impiedad.
+
+
+ESTRIBILLO 4:
+Por mí en el tormento tu sangre vertiste
+y prensa me diste de amor y humildad.
+
+
+ESTRIBILLO 5:
+Y yo en recompensa pecado a pecado
+la copa he llenado de iniquidad.
+
+
+ESTRIBILLO 6:
+Más ya arrepentido te busco lloroso
+¡Oh Padre amoroso! ¡Oh Dios de Bondad!
 
 ```
 
