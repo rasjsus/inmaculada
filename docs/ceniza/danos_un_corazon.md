@@ -1,28 +1,38 @@
 # Danos un corazon
 
 ```bash hl_lines="1-6"
- SIm  FA#    SIm SOL      LA    RE
+CAPO 2
+ Am.  Em.    Am.  F.      G.    C
 Danos un corazón grande para amar,
- SIm  FA#   SIm  LA             SIm
+ Bm   Em.    Am.  G.             Am
 danos un corazón fuerte para luchar.
 
-   SIm      SOL          LA           RE
+   Am      F          G             C
 1. Hombres nuevos, creadores de la historia,
-          SOL       LA          RE
+          F       G          C
 constructores de nueva humanidad;
-   SIm     SOL       LA           SIm
+   Am     F         G           Am
 hombres nuevos que viven la existencia
-  SOL               MIm       FA#
+      F            Dm       E
 como riesgo de un largo caminar.
 
-2. Hombres nuevos luchando en esperanza,
+   Am      F          G             C
+Hombres nuevos luchando en esperanza,
+     F       G          C
 caminantes sedientos de verdad.
+   Am     F         G           Am
 Hombres nuevos, sin frenos ni cadenas,
+         F          Dm       E
 hombres libres que exigen libertad.
 
-3. Hombres nuevos, amando sin fronteras,
+
+   Am      F          G             C
+Hombres nuevos, amando sin fronteras,
+     F       G          C
 por encima de razas y lugar.
+   Am     F         G           Am
 Hombres nuevos, al lado de los pobres,
+         F          Dm       E
 compartiendo con ellos techo y pan.
 
 ```

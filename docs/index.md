@@ -1,14 +1,14 @@
-# Esquema Ordinario 
+# Esquema Ordinario
 
-- Entrada: [Alegría de vivir](entrada/alegria_de_vivir.md)
-- Señor ten piedad: [señor ten piedad](senior_ten_piedad/senior_5.md)
-- Gloria: [Gloria](gloria/gloria_5.md)
-- Aleluya: [Aleluya](aleluya/aleluya_3.md)
-- Ofertorio: [Pan y vino sobre el altar](ofertorio/por_los_hombres.md)
-- Santo: [Santo](santo/santo_3.md)
-- Cordero: [Cordero](cordero/cordero_3.md)
-- Comunion: [Bienaventurados](comunion/bienaventurados.md)
-- Salida: [Ven y reina Madre de Dios](salida/ven_y_reina_madre_de_dios.md)
+- Entrada: [Nos has llamado al desierto](cuaresma/nos_has_llamado_al_desierto.md)
+- Señor ten piedad: [señor ten piedad](ceniza/senior.md)
+- Aleluya: [Honor y Gloria](honor_y_gloria/honor_y_gloria.md)
+- Ofertorio: [Camino Cuaresmal](ofertorio/camino_cuaresmal.md)
+- Santo: [Santo](ceniza/santo.md)
+- Cordero: [Cordero](ceniza/cordero.md)
+- Comunion: [Bienaventurados](cuaresma/no_solo_de_pan_vive_el_hombre.md)
+- Comunion: [Bienaventurados](comunion/hambre_de_Dios.md)
+- Salida: [Danos un corazon](ceniza/danos_un_corazon.md)
 
   Annotations:
   `mkdocs gh-deploy`
