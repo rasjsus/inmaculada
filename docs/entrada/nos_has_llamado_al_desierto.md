@@ -1,7 +1,7 @@
 # Nos has llamado al desierto
 
 
-```bash hl_lines"
+```bash 
 Intro: Em B7 Em Am B7  Em
        Em B7 Am Em B7 Em Am B7 Em
 
