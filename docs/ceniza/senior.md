@@ -1,19 +1,21 @@
 # Señor
 
 ```bash
-Am     G       Am
+Intro: Bm  A  Bm. Bm
+
+Bm     A       Bm. Bm
 Seeñor ten piedad
-Am     G       Am
+Bm     A       Bm. Bm
 Seeñor ten piedad
 
-F        G       C E7
-Piedad cristo piedad
-F        G       C E7
-Piedad cristo piedad
+G        A       D     F#7
+Cristo  ten     piedad
+G        A       D     F#7
+Cristo  ten     piedad
 
-Am     G       Am
+Bm     A       Bm. Bm
 Seeñor ten piedad
-Am     G       Am
+Bm     A       Bm Bm
 Seeñor ten piedad
 
 ```

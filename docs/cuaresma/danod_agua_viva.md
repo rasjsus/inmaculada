@@ -3,9 +3,9 @@
 ```bash
     Dm.               Gm
 Jesús, cansado del camino, 
-    C                   F
+    C                   F.   F#
 le pide de beber a una mujer, 
-Gm                 F       
+Gm                 Dm       
 era una mujer samaritana, 
 A7                        D
 Jesús le dice: "Dame de beber"
