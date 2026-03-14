@@ -8,6 +8,7 @@
 - Santo: [Santo](ceniza/santo.md)
 - Cordero: [Cordero](cordero/cordero_2.md)
 - Comunion: [Danos agua viva](comunion/el_senior_es_mi_luz.md)
+- Comunion: [Danos agua viva Bajo](comunion/el_senior_es_mi_luz_bass.md)
 - Salida: [Santa Maria del Amen](cuaresma/santa_maria_del_amen.md)
 - Salida Bajo: [Santa Maria del Amen Bajo](cuaresma/santa_maria_del_amen_bass.md)
 
