@@ -1,6 +1,8 @@
 # Tanto amo Dios al mundo
 
 ```bash
+CAPO 3
+
 Am                 Dm              E7
 Tanto amo Dios al mundo que ël entregó
        Am      Dm            E7

@@ -1,5 +1,5 @@
 # Cordero
-
+capo 1 Bm
 ```bash
 
 Bm                   E  Em

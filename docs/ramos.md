@@ -1,10 +1,11 @@
 # Esquema De Domingo de Ramos
 
-- Entrada: [Tu reinarás](ramos/tu_reinaras.md)
+- Procesion: [Viva Cristo rey]
+- Entrada: [Portones alzad los dinteles](entrada/portones.md)
 - Señor: [Señor ten piedad](exequias/senior.md)
-- Honor y Gloria: [Honor y Gloria jessed](honor_y_gloria/honor_y_gloria_1.md)
-- Ofertorio: [Vino y pan](ofertorio/vino_y_pan.md)
-- Santo: [Santo ](santo/santo_3.md)
+- Honor y Gloria: [Honor y Gloria](honor_y_gloria/honor_y_gloria.md)
+- Ofertorio: [Padre nuestro recibid](ofertorio/padre_nuestro_recibid.md)
+- Santo: [Santo](santo/santo_a_nuestro_salvador.md)
 - Cordero: [Cordero 4](exequias/cordero.md)
-- Comunion: [Tu reino es vida](ramos/tu_reino_es_vida.md)
-- Salida: [Viva cristo rey](ramos/viva_cristo_rey.md)
+- Comunion: [](comunion/himno_pascual.md)
+- Salida: [Viva cristo rey](comunion/tanto_amo_dios_al_mundo.md)
