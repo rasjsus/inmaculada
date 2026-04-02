@@ -25,11 +25,6 @@ Gloria gloria a Dios en el cielo
 F         C    Bb      A7     Dm
 y en la tierra a los hombres paz
 
-Dm      F     A7            Dm
-Gloria gloria a Dios en el cielo
-F         C    Bb      A7     Dm
-y en la tierra a los hombres paz :man_raising_hand
-
 Dm     A7   Dm      Bb    Dm
 Señor Dios nuestro padre padre
 Dm      A7   Dm
@@ -57,7 +52,7 @@ F    C    Bb A7 Dm
 Amen Amen A- a- men
 ```
 
-[Volver al esquema -->](../quince_anios.md)
+[Volver al esquema -->](../jueves_santo.md)
 
 ## Sugerencias
 
