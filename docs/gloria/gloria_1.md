@@ -52,11 +52,7 @@ F    C    Bb A7 Dm
 Amen Amen A- a- men
 ```
 
-<<<<<<< HEAD
-[Volver al esquema -->](../sabado_santo.md)
-=======
 [Volver al esquema -->](../jueves_santo.md)
->>>>>>> 1a764f02310fa327c9fd978b580dea5195a71500
 
 ## Sugerencias
 
