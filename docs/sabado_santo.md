@@ -7,7 +7,7 @@
 - Cordero: [Cordero 3](cordero/cordero_4.md)
 - Comunion: [O filii et filiae](sabado_santo/o_filii_et_filiae.md)
 - Salida: [Resucito](sabado_santo/resucito.md)
-- Salida: [El leon de la tribu](sabado_santo/el_leon_de_la_tribu.md)
+- Salida: [El leon de la tribu](sabado_santo/renace_la_esperanza.md)
 
   Annotations:
   `mkdocs gh-deploy`
