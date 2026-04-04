@@ -1,7 +1,7 @@
 # Portones Alzad los Dinteles
 
 ```bash
-CAPO: por definir
+CAPO: 5
 
 Intro 
 Am   G  Am   D/G  Am   G  Am
@@ -21,8 +21,6 @@ C       G               Am
 Él la fundó sobre los mares,
 F        G             F E7 [Intro]
 Él la asentó sobre los ríos.
-
-
 
 ¿Quién puede subir al monte de Dios?
 ¿Quién puede entrar en sus recintos?,

@@ -1,11 +1,11 @@
 # Llevemos al Señor el vino y el pan
 
 ```bash
-Em D Em G D Em Em D Em G D Em Em
+Em D. Em.  Em
 
-Em                    D         Em   Em
+Em           Em       D         Em   Em
 Llevemos al Señor el vino y el pan
-Em                    D         Em 
+Em          Em        D         Em 
 Llevemos al altar la viña el trigal
 
 Em-D-G   G - C - D

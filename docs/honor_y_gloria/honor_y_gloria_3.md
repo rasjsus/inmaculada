@@ -1,20 +1,19 @@
-# Honor y gloria 
+# Honor y gloria
 
 ```bash
-C
+D
 Honor a ti
-Em
+F#m
 gloria  a ti
-F      G  C
+G      A  D
 Señor Jesus
 
-C
+D
 Honor a ti
-Em
+F#m
 gloria  a ti
-F      G  C
+G      A  D
 Señor Jesus
 ```
 
 [Volver al esquema -->](../jueves_santo.md)
-

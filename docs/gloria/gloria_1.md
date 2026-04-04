@@ -25,11 +25,6 @@ Gloria gloria a Dios en el cielo
 F         C    Bb      A7     Dm
 y en la tierra a los hombres paz
 
-Dm      F     A7            Dm
-Gloria gloria a Dios en el cielo
-F         C    Bb      A7     Dm
-y en la tierra a los hombres paz :man_raising_hand
-
 Dm     A7   Dm      Bb    Dm
 Señor Dios nuestro padre padre
 Dm      A7   Dm
@@ -57,7 +52,11 @@ F    C    Bb A7 Dm
 Amen Amen A- a- men
 ```
 
+<<<<<<< HEAD
 [Volver al esquema -->](../sabado_santo.md)
+=======
+[Volver al esquema -->](../jueves_santo.md)
+>>>>>>> 1a764f02310fa327c9fd978b580dea5195a71500
 
 ## Sugerencias
 
