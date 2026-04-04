@@ -1,24 +1,25 @@
 # Esta es el agua
 
 ```bash
+Am
 F  C   E  Am
 
-Am          C  
+C           Am
 Esta es el agua pura 
-   F              DO
+ Dm        G        C
 que el creador nos dio, 
-     Dm      C
+    E7           Am
 esta es el agua nueva 
-     E7         LAm
+G          E7      Am
 que de la cruz brotó. 
 
-    FA           DO
+     F             C
 Del agua y del Espíritu 
-FA           DO
+F            C
 la vida comenzó, 
-       DO   MI7    LAm
+         E7        Am 
 por el agua del bautismo 
-FA       SOL7  LAm
+G      E7     Am
 la nueva creación. 
 
 El agua de nuestros ríos 

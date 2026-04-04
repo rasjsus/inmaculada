@@ -57,7 +57,7 @@ F    C    Bb A7 Dm
 Amen Amen A- a- men
 ```
 
-[Volver al esquema -->](../quince_anios.md)
+[Volver al esquema -->](../sabado_santo.md)
 
 ## Sugerencias
 
