@@ -7,4 +7,6 @@ G      D        A     D
 Aaaleluya, Aleluuuuuu ya
 
 ```
-[Volver al esquema -->](../adviento.md)
+
+[Volver al esquema -->](../pascua.md)
+

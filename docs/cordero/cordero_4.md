@@ -25,4 +25,4 @@ Danos la paz
 
 ```
 
-[Volver al esquema -->](../uncion_enfermos.md)
+[Volver al esquema -->](../pascua.md)
