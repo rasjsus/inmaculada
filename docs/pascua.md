@@ -8,6 +8,8 @@
 - Santo: [Santo ](santo/santo_relasol.md)
 - Cordero: [Cordero](cordero/cordero_4.md)
 - Comunion III: [Emaús](pascua/emaus.md)
+- Comunion III: [Jesucristo unico salvador del mundo](comunion/jesucristo_unico_salvador_del_mundo.md)
+- Comunion III: [yo soy el pan de vida](exequias/yo_soy_el_pan_de_vida.md)
 - Salida: [Ragina coeli](salida/regina_coeli.md)
 
   Annotations:
