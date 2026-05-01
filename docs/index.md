@@ -1,16 +1,14 @@
 # Esquema cuaresma IV
 
-- Entrada: [Que alegria cuando me dijeron](entrada/que_alegria_cuando_me_dijeron.md)
-- Señor ten piedad: [señor ten piedad](ceniza/senior.md)
-- Honor y gloria: [Honor y Gloria](honor_y_gloria/honor_y_gloria.md)
-- Ofertorio: [Llevemos al Señor](ofertorio/llevemos_al_sr_el_vino_y_el_pan.md)
-- Ofertorio Bajo: [Llevemos al Señor Bajo](cuaresma/llevemos_al_senior_bass.md)
-- Santo: [Santo](ceniza/santo.md)
+- Entrada: [Salmo 115](entrada/salmo_115.md)
+- Señor ten piedad
+- Aleluya: Aleluya misal
+- Ofertorio: [Te presentamos el vino y el pan](ofertorio/te_presentamos_el_vino_y_el_pan.md)
+- Santo
 - Cordero: [Cordero](cordero/cordero_2.md)
-- Comunion: [Danos agua viva](comunion/el_senior_es_mi_luz.md)
-- Comunion: [Danos agua viva Bajo](comunion/el_senior_es_mi_luz_bass.md)
-- Salida: [Santa Maria del Amen](cuaresma/santa_maria_del_amen.md)
-- Salida Bajo: [Santa Maria del Amen Bajo](cuaresma/santa_maria_del_amen_bass.md)
+- Comunion: [En la eucaristía](comunion/en_la_eucaristia.md)
+- Salida: [Himno a San José](santos_y_fiestas/himno_a_san_jose.md)
+
 
   Annotations:
   `mkdocs gh-deploy`
