@@ -2,6 +2,7 @@ site_name: Inmaculada Chorus
 nav:
   - Home: index.md
   - Miercoles de Ceniza: miercoles_de_ceniza.md
+  - Miercoles Santo: miercoles_santo.md
   - Exequias: exequias.md
   - Repertorio: repertorio.md
   - Ramos: ramos.md
@@ -24,6 +25,11 @@ nav:
   - Navidad: navidad.md
   - Epifanía del señor: epifania_del_senior.md
   - Uncion de enfermos: uncion_enfermos.md
+  - Hora santa:
+        - Cantemos al amor de los amores: hora_santa/amor_de_los_amores.md
+        - Incienso de dios: hora_santa/incienso_de_dios.md
+        - Jesús eucaristía: hora_santa/jesus_eucaristia.md
+        - Me rindo a ti: hora_santa/me_rindo_a_ti.md
   - Adviento:
         - Este pan y vino: adviento/este_pan_y_vino.md
         - La virgen sueña caminos: adviento/la_virgen_suena_caminos.md
@@ -32,7 +38,8 @@ nav:
   - Entrada:
       - Alegria de vivir: entrada/alegria_de_vivir.md
       - Dios es amor: entrada/dios_es_amor.md
-      - el espiritu del señor: entrada/el_espiritu_del_senior.md
+      - Nos has llamado al desierto: entrada/nos_has_llamado_al_desierto.md
+      - El espiritu del señor: entrada/el_espiritu_del_senior.md
       - ha vencido el cordero: entrada/ha_vencido_el_cordero.md
       - que alegría cuando me dijeron: entrada/que_alegria_cuando_me_dijeron.md
       - salmo 115: entrada/salmo_115.md
@@ -67,6 +74,7 @@ nav:
       - gloria (4): gloria/gloria_4.md
       - gloria (5): gloria/gloria_5.md
       - Gloria (6): gloria/gloria_6.md
+      - Gloria pascua: gloria/gloria_pascua.md
       - gloria nortino: gloria/gloria_nortino.md
       - gloria in excelsis deo: gloria/Gloria_in_excelsis_deo.md
   - Aleluya:
@@ -80,6 +88,7 @@ nav:
       - Honor y Gloria (1): honor_y_gloria/honor_y_gloria_1.md
       - Honor y Gloria (2): honor_y_gloria/honor_y_gloria_2.md
       - Honor y Gloria (3): honor_y_gloria/honor_y_gloria_3.md
+      - Honor y Gloria: honor_y_gloria/honor_y_gloria.md
   - Ofertorio:
       - con el vino y con el pan: ofertorio/con_el_vino_y_con_el_pan.md
       - con estas ofrendas: ofertorio/con_estas_ofrendas.md
@@ -90,6 +99,8 @@ nav:
       - En este mundo: ofertorio/en_este_mundo.md
       - Entre tus manos: ofertorio/entre_tus_manos.md
       - Hemos entregado: ofertorio/hemos_entregado.md
+      - Camino cuaresmal: ofertorio/camino_cuaresmal.md
+      - Presentación de dones: ofertorio/presentacion_dones.md
       - Pan y vino sobre el altar: ofertorio/por_los_hombres.md
       - Sobre tu altar: ofertorio/sobre_tu_altar.md
       - Quiero estar en tu presencia: ofertorio/quiero_estar_Senior_en_tu_presencia.md
@@ -103,11 +114,14 @@ nav:
       - santo (4): santo/santo_4.md
       - santo (5): santo/santo_5.md
       - santo Tradicional: santo/santo_tradicional.md
+      - santo a nuestro salvador: santo/santo_a_nuestro_salvador.md
+      - santo relasol: santo/santo_relasol.md
   - Consagracion:
       - jesus hijo de david: consagracion/jesus_hijo_de_david.md
       - me consagro a ti: consagracion/me_consagro_a_ti.md
       - vive jesus el señor: consagracion/vive_jesus_el_senior.md
       - Entrare: consagracion/entrare.md
+      - Pangue Lingua: consagracion/pangue_lingua.md
       - Venimos a adorar: consagracion/venimos_a_adorar.md
       - Dame tu mano: consagracion/dame_tu_mano.md
       - Rendid honor al señor: consagracion/rendid_honor_al_senor.md
@@ -154,6 +168,11 @@ nav:
       - Una estrella: comunion/una_estrella.md
       - Ven y sigueme: comunion/ven_y_sigueme.md
       - Ven y sigueme Pascua Joven: comunion/ven_y_sigueme_pascua_joven.md
+      - El señor es mi luz: comunion/el_senior_es_mi_luz.md
+      - El señor es mi luz (bajo): comunion/el_senior_es_mi_luz_bass.md
+      - Himno pascual: comunion/himno_pascual.md
+      - Jesucristo único salvador del mundo: comunion/jesucristo_unico_salvador_del_mundo.md
+      - Toma mis lágrimas: comunion/toma_mis_lagrimas.md
   - Salida:
       - A ti madre de esperanza: salida/a_ti_madre_de_esperanza.md
       - En torno a María: salida/en_torno_a_maria.md
@@ -177,6 +196,8 @@ nav:
       - Niña que nacio: salida/ninia_que_nacio.md
       - Mi alma glorifica: salida/mi_alma_glorifica.md
       - Somos del señor: salida/somos_del_senior.md
+      - Alegrate María: salida/alegrate_maria.md
+      - Regina Coeli: salida/regina_coeli.md
   - Penteocostés:
       - ven espíritu de Dios: pentecostes/ven_espiritu_de_dios.md
       - el espíritu de Dios: pentecostes/el_espiritu_de_dios.md
@@ -192,6 +213,13 @@ nav:
       - Gloria grinitario: trinidad/gloria_trinitario.md
   - Pascua:
       - Alegre la mañana: pascua/alegre_la_maniana.md
+      - Emaús: pascua/emaus.md
+  - Jueves Santo:
+        - Adoracion: jueves_santo/adoracion.md
+        - Dios nos convoca: jueves_santo/dios_nos_convoca.md
+        - Donde hay amor: jueves_santo/donde_hay_amor.md
+        - Les he lavado los pies: jueves_santo/les_he_lavado_los_pies.md
+        - Les he lavado los pies (bajo): jueves_santo/les_he_lavado_los_pies_bass.md
   - Alabanzas:
       - Alabare: alabanzas/alabare.md
       - Baja el rio: alabanzas/baja_el_rio.md
@@ -219,6 +247,9 @@ nav:
       - Perdona a tu pueblo: ceniza/perdona_a_tu_pueblo.md
       - Pescador de hombres: ceniza/pescador_de_hombres.md
       - Santo: ceniza/santo.md
+      - Danos un corazón: ceniza/danos_un_corazon.md
+      - Perdon_oh_dios_mio: ceniza/perdon_oh_dios_mio.md
+      - Salmo 50: ceniza/salmo_50.md
   - Navidad:
       - La familia sagrada: navidad/la_familia_sagrada.md
       - Los Reyes Magos: navidad/los_reyes_magos.md
@@ -240,8 +271,11 @@ nav:
       - Un Mandamiento nuevo: jueves_santo/un_mandamiento_nuevo.md
       - Aleluya: sabado_santo/aleluya.md
       - Bautizame: sabado_santo/bautizame_senior.md
+      - Cordero pascual: sabado_santo/cordero_pascual.md
+      - O filii et filiae: sabado_santo/o_filii_et_filiae.md
+      - Rito de aspersion: sabado_santo/rito_de_aspersion.md
       - Bendicion del agua: sabado_santo/bendicion_del_agua.md
-      - Corder: sabado_santo/cordero_3.md
+      - Cordero: sabado_santo/cordero_3.md
       - El leon de la tribu de juda: sabado_santo/el_leon_de_la_tribu.md
       - Gloria: sabado_santo/gloria.md
       - Hemos entregado: sabado_santo/hemos_entregado.md
@@ -254,6 +288,8 @@ nav:
       - Tu reninaras: ramos/tu_reinaras.md
       - Tu reino es vida: ramos/tu_reino_es_vida.md
       - Viva cristo rey: ramos/viva_cristo_rey.md
+  - Santos y fiestas:
+      - Himno a San José: santos_y_fiestas/himno_a_san_jose.md
   - Teresita:
       - A Teresita: teresita/a_teresita.md
       - Aleluya: teresita/aleluya.md
@@ -290,7 +326,30 @@ nav:
       - Llega pecador: villancicos/llega_llega_pecador.md
       - Duerme y no llores: villancicos/duerme_y_no_llores.md
       - Noche de paz: villancicos/noche_de_paz.md
-
+  - Cuaresma:
+      - Danos un corazón: cuaresma/danos_un_corazon.md
+      - Perdon_oh_dios_mio: cuaresma/perdon_oh_dios_mio.md
+      - Salmo 50: cuaresma/salmo_50.md
+      - Danos agua viva: cuaresma/danos_agua_viva.md
+      - Llevemos al Señor (bajo): cuaresma/llevemos_al_senior_bass.md
+      - No solo de pan vive el hombre: cuaresma/no_solo_de_pan_vive_el_hombre.md
+      - Nos has llamado al desierto: cuaresma/nos_has_llamado_al_desierto.md
+      - Purificame Señor: cuaresma/purificame_senior.md
+      - Santa Maria del amen: cuaresma/santa_maria_del_amen.md
+      - Santa Maria del amen (bajo): cuaresma/santa_maria_del_amen_bass.md
+  - Uncion de enfermos:
+      - Alma de Cristo: uncion_enfermos/alma_de_cristo.md
+      - Descansa en Dios: uncion_enfermos/descansa_en_dios.md
+      - El espíritu de Dios está en este lugar: uncion_enfermos/el_espiritu_de_dios_esta_en_este_lugar.md
+      - Estuve enfermo: uncion_enfermos/estuve_enfermo.md
+      - Nada te turbe: uncion_enfermos/nada_te_turbe.md
+      - Oración de confianza: uncion_enfermos/oracion_de_confianza.md
+      - Oración de un enfermo: uncion_enfermos/oracion_de_un_enfermo.md
+      - Salmo 91: uncion_enfermos/salmo_91.md
+      - Saname Señor: uncion_enfermos/saname_senior.md
+      - Solo Dios: uncion_enfermos/solo_dios.md
+      - Vaso nuevo: uncion_enfermos/vaso_nuevo.md
+      - Venid a mí los sedientos: uncion_enfermos/venid_a_mi_los_sedientos.md
 #   - Historial:
 theme:
   name: material
