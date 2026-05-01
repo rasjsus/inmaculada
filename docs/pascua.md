@@ -1,6 +1,6 @@
 # Esquema Tiempo de pascua
 
-- Entrada: [Dios nos convoca](entrada/jesus_resucito_aleluya.md)
+- Entrada: [Jesus Resucitó aleluya](entrada/jesus_resucito_aleluya.md)
 - Señor ten piedad
 - Gloria: [Gloria](gloria/gloria_pascua.md)
 - Aleluya misal 
