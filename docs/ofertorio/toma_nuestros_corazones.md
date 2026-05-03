@@ -9,23 +9,23 @@ Las ofrendas que ponemos
 Ante ti gran Dios
 G       D
 Recibe oh Señor
-C                 D
+C                 D  G
 Toda Nuestra Oblacion
 ___________________________________
 G                   D
 Toma nuestros corazones
 Em              Bm
-Que ofrecemos a ti
+  Que ofrecemos a ti
 C             G
-Transforma nuestra ofrenda
+  Transforma nuestra ofrenda
          C       D           G
-en el cuerpo y sangre de Jesús
+  en el cuerpo y sangre de Jesús
 ___________________________________________
 G             D
 Dios padre Creador
         Em             Bm           C
 Te doy gracias por la vida que nos das
-   D        C         D
+   D        C         D G
 En cristo Salvador y Rey
 
 

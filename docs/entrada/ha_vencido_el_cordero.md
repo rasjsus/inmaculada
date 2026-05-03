@@ -1,44 +1,43 @@
 # Ha vencido el cordero
 
 ```bash hl_lines="23-39"
-Capo 3
 
-C                  Am
+D                  Bm
 Toda la tierra te alabe, señor
-    F                  G
+    G                  A
 Te alabe la luna y el sol
-C                  Am
+D                  Bm
 Toda la tierra te alabe señor
-     F                    G
+     G                    A
 las estrellas te rindan loor
 
 
-Dm                   Am
+Em                   F#m
 Todos los reyes del mundo señor
-   Dm                Am
+   Em                F#m
 Se postren ante tu esplendor
-Dm                   Am
+Em                   F#m
 Exulten el cielo, la tierra y el mar
-     F                G
+     G                A
 Y estallen en una canción
 
 
-C           Am
+D           Bm
 Aleluya, Aleluya
-     F                     G
+     G                     A
 Ha llegando ya el reino de Dios
-     C          Am
+     D          Bm
 Ha vencido el cordero
-       F                   G
+       G                   A
 Ha triunfado con armas de amor
 
-C          Am
+D           Bm
 Aleluya, Aleluya
-      F                      G
+     G                     A
 Ha llegando ya el reino de Dios
-     C          Am
+     D          Bm
 Ha vencido el cordero
-      F                    G    C
+       G                   A   D
 Ha triunfado con armas de amor
 
 ```
