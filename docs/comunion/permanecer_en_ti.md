@@ -2,6 +2,9 @@
 
 ```bash
 CAPO 2
+
+Ritmo: bonus->wonderful 6/8 -> 88
+
 D
 Jesús
                   G           
