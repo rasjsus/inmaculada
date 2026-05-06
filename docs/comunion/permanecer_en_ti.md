@@ -3,7 +3,7 @@
 ```bash
 CAPO 2
 
-Ritmo: bonus->wonderful 6/8 -> 88
+Ritmo: bonus->wonderful 6/8 -> 63
 
 D
 Jesús
