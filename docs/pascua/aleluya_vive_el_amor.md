@@ -1,6 +1,10 @@
 # Aleluya, Vive el amor
 
+
 ```bash
+Ritmo: bonus->wonderful 6/8 -> 88
+
+
 Pueblo de Dios, este es un nuevo día, 
 corre a ver ya la tumba vacía. 
 ¡Ven a ver! ¡Ven a ver! ¡Resucitó! 
