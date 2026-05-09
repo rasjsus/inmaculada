@@ -12,6 +12,7 @@
 - Comunion II: [Jesucristo unico salvador del mundo](comunion/jesucristo_unico_salvador_del_mundo.md)
 - Comunion IV: [el Señor es mi pastor](comunion/el_senior_es_mi_pastor.md)
 - Comunion V: [Camino vida y verdad](comunion/camino_verdad_vida.md)
+- Comunion VI: [Alegría del Universo](pascua/alegria_del_universo.md)
 - Salida: [Ragina coeli](salida/regina_coeli.md)
 - Salida: [Vive el amor](pascua/aleluya_vive_el_amor.md)
 
