@@ -15,6 +15,7 @@
 - Comunion: [El espiritu de Dios](pentecostes/el_espiritu_de_dios.md)
 - Comunion: [El espiritu de Dios](pentecostes/el_espiritu_de_dios.md)
 - Comunion: [El espiritu de Dios](pentecostes/ven_espiritu_de_Dios_sobre_mi.md)
+- Comunion: [Pentecostes](pentecostes/pentecostes.md)
 
 - Salida: [En torno a Maria](salida/en_torno_a_maria.md)
 

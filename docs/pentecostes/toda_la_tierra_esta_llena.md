@@ -1,22 +1,22 @@
 # Toda la Tierra esta llena
 
 ```bash
-Em        G         D  Em           G   D    Em
+Dm        F         C  Dm           F   C    Dm
 Toda la tierra está lle na del Espíritu de Dios.
-Em      G     D  Em          Am         D  G
+Dm      F     C  Dm          Gm         C  F
 Ven Espíritu divino, llena nuestro corazón,
- Am      D            Em
+ Gm      C            Dm
 y enciéndenos en el fuego,
-      D               Em
+      C               Dm
 de tu gracia y de tu amor.
 
-Em           D         Em
+Dm           C         Dm
 Renueva la faz del mundo
-        C         Am    B7
+        Bb         Gm    A7
 con tu fuerza y resplandor
-    Em        D      G
+    Dm        C      F
 y alumbra la vida nueva
-     C         Am   B7
+     Bb         Gm   A7
 de la nueva creación.
 
 El Espíritu del Padre
