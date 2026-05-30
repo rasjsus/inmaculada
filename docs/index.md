@@ -9,6 +9,5 @@
 - Comunion: [En la eucaristía](comunion/en_la_eucaristia.md)
 - Salida: [Himno a San José](santos_y_fiestas/himno_a_san_jose.md)
 
-
   Annotations:
   `mkdocs gh-deploy`
