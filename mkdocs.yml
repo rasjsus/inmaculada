@@ -25,16 +25,17 @@ nav:
   - Navidad: navidad.md
   - Epifanía del señor: epifania_del_senior.md
   - Uncion de enfermos: uncion_enfermos.md
+  - Trinidad: trinidad.md
   - Hora santa:
-        - Cantemos al amor de los amores: hora_santa/amor_de_los_amores.md
-        - Incienso de dios: hora_santa/incienso_de_dios.md
-        - Jesús eucaristía: hora_santa/jesus_eucaristia.md
-        - Me rindo a ti: hora_santa/me_rindo_a_ti.md
+      - Cantemos al amor de los amores: hora_santa/amor_de_los_amores.md
+      - Incienso de dios: hora_santa/incienso_de_dios.md
+      - Jesús eucaristía: hora_santa/jesus_eucaristia.md
+      - Me rindo a ti: hora_santa/me_rindo_a_ti.md
   - Adviento:
-        - Este pan y vino: adviento/este_pan_y_vino.md
-        - La virgen sueña caminos: adviento/la_virgen_suena_caminos.md
-        - Ven señor no tardes más: adviento/ven_senior_no_tardes_mas_ven_senior_jesus.md
-        - Ven señor mi Dios: adviento/ven_señor_mi_dios.md
+      - Este pan y vino: adviento/este_pan_y_vino.md
+      - La virgen sueña caminos: adviento/la_virgen_suena_caminos.md
+      - Ven señor no tardes más: adviento/ven_senior_no_tardes_mas_ven_senior_jesus.md
+      - Ven señor mi Dios: adviento/ven_señor_mi_dios.md
   - Entrada:
       - Alegria de vivir: entrada/alegria_de_vivir.md
       - Dios es amor: entrada/dios_es_amor.md
@@ -215,11 +216,11 @@ nav:
       - Alegre la mañana: pascua/alegre_la_maniana.md
       - Emaús: pascua/emaus.md
   - Jueves Santo:
-        - Adoracion: jueves_santo/adoracion.md
-        - Dios nos convoca: jueves_santo/dios_nos_convoca.md
-        - Donde hay amor: jueves_santo/donde_hay_amor.md
-        - Les he lavado los pies: jueves_santo/les_he_lavado_los_pies.md
-        - Les he lavado los pies (bajo): jueves_santo/les_he_lavado_los_pies_bass.md
+      - Adoracion: jueves_santo/adoracion.md
+      - Dios nos convoca: jueves_santo/dios_nos_convoca.md
+      - Donde hay amor: jueves_santo/donde_hay_amor.md
+      - Les he lavado los pies: jueves_santo/les_he_lavado_los_pies.md
+      - Les he lavado los pies (bajo): jueves_santo/les_he_lavado_los_pies_bass.md
   - Alabanzas:
       - Alabare: alabanzas/alabare.md
       - Baja el rio: alabanzas/baja_el_rio.md
@@ -254,7 +255,7 @@ nav:
       - La familia sagrada: navidad/la_familia_sagrada.md
       - Los Reyes Magos: navidad/los_reyes_magos.md
       - Venid fieles todos: navidad/venid_fieles_todos.md
-      - Y la palabra se hizo carne: navidad/y_la_palabra_se_hizo_carne.md 
+      - Y la palabra se hizo carne: navidad/y_la_palabra_se_hizo_carne.md
   - Exequias:
       - Caminare: exequias/caminare.md
       - Señor: exequias/senior.md
