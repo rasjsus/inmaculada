@@ -1,34 +1,33 @@
 # Te presentamos el vino y el pan
 
 ```bash hl_lines="9-16 25-28"
-CAPO 2
 
-C                  F         C
+D                  G         D
 Te presentamos el vino y el pan
-F        C         G        C
+G       D        A       D
 bendito seas por siempre señor
-C                  F         C
+D                  G         D
 Te presentamos el vino y el pan
-F        C         G        C
+G       D        A       D
 bendito seas por siempre señor
 
-C        F     C
+D       G    D
 Bendito seas señor
-      F               C
+      G              D
 por este pan que nos diste
-  F                         C               G
+  G                        D              A
 fruto de la tierra y del trabajo de los hombres
 
-C                  F         C
+D                  G         D
 Te presentamos el vino y el pan
-F        C         G        C
+G       D        A       D
 bendito seas por siempre señor
 
-C        F     C
+D       G    D
 Bendito seas señor
-   F             C
-el vino tu nos diste
-  F                         C               G
+   G               D
+el vino tu nos lo diste
+  G                        D              A
 fruto de la tierra y del trabajo de los hombres
 
 
