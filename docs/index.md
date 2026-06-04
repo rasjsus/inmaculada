@@ -22,4 +22,4 @@ Ofertorio te presentamos el vino y el pan
 Santo https://open.spotify.com/track/16YvPdloaRSzxURGVtrRJv?si=LyMjnl5QSBqm7PFUgsU_0g
 Cordero https://open.spotify.com/track/3QMm8nuKQ88xqPzctCerPW?si=K56W6a-oRuqcKwJ1i6C_1A
 Comunion En la eucaristia 
-Salida salve regina / ven y reina madre de dios
+Salida salve regina / ven y reina madre de dios https://www.verbumgloriae.es/project/salve-regina-simple/
