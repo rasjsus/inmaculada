@@ -11,3 +11,15 @@
 
   Annotations:
   `mkdocs gh-deploy`
+
+
+
+[9:11 AM, 6/4/2026] Cristy: Entrada el señor es mi luz y mi salvacion : https://open.spotify.com/track/3C6c4IIv7j7UDPOGT9u5AZ?si=pjiSaYfIQsee7YVU5KuX4w
+[9:18 AM, 6/4/2026] Cristy: Señor ten piedad  nuevo
+Gloria palazon 
+Aleluya g
+Ofertorio te presentamos el vino y el pan
+Santo https://open.spotify.com/track/16YvPdloaRSzxURGVtrRJv?si=LyMjnl5QSBqm7PFUgsU_0g
+Cordero https://open.spotify.com/track/3QMm8nuKQ88xqPzctCerPW?si=K56W6a-oRuqcKwJ1i6C_1A
+Comunion En la eucaristia 
+Salida salve regina / ven y reina madre de dios
