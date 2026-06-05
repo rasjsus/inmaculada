@@ -1,4 +1,4 @@
-# Esquema Adviento
+# Esquema Sagrado Corazon de Jesus
 
 - Entrada: [Sagrado corazon de Jesus](sagrado_corazon/sagrado_corazon_de_jesus.md)
 - Señor: [Señor ten piedad](senior_ten_piedad/senior_5.md)
