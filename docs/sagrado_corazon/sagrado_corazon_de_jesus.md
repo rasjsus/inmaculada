@@ -1,37 +1,43 @@
 # Sagrado corazon de Jesus
 
 ```bash
-C G F, C G F
+A. E D, A E D
 
-C            G            F        
+
+A            E           D
 Sagrado Corazón de Jesús,
-           G
+           E
 yo creo en Ti.
-C            G            F        
+A            E            D
 Sagrado Corazón de Jesús,
-             G
+             E
 yo confio en Ti.
 
-Am              Em
+F#m              C#m
 Hoy quiero levantar mi voz
-      F                 G
+      D                 E
 para proclamar tus grandezas:
-Am          Em              F
+F#m          C#m              D
 Decirle al mundo entero de tu
-F          G
+D          E
 amoroso Corazón.
 
+F#m.      C#m              D
 Son vivas y eternas tus promesas
+             E
 en la tribulación.
+F#m          C#m
 Tu Sagrado Corazón
-es refugio seguro
+D               E
+   es refugio seguro
 
+F#m                C#m
 En la angustia y en el dolor
-nos llevas a tu Corazón
+      D             E
+nos llevas a --- tu Corazón
+F#m        C#m
 para consolar y sanar
-en tu Amor.
+D.        E
+   en tu Amor.
 
-Final:
-FA SOL DO
-Yo confío en Ti.
 ```

@@ -3,9 +3,9 @@
 ```bash
 
 Intro
-LAm             RE    LAm   
 LAm             RE    LAm
-FA   SOL   DO   MI7   LAm 
+LAm             RE    LAm
+FA   SOL   DO   MI7   LAm
 
    Am         F
 Sagrado Corazón,
@@ -36,11 +36,11 @@ consuelo del afligido,
    C       D    C
 en tu costado abierto
      E7           C
-deja que haga mi nido. 
+deja que haga mi nido.
    C       D    C
 en tu costado abierto
      E7           C
-deja que haga mi nido. 
+deja que haga mi nido.
 
 
    F
@@ -53,6 +53,19 @@ eres raudal de esperanza.
 El pueblo que redimiste
         E7          Am
 pone en Ti su confianza. //
+
+ F     G    Em    Am    F    G    C
+¡Oh,         Corazón!   ¡Oh, Corazón!
+ F     G    Em     Am   F       Em   Am
+¡Oh,         Corazón!  ¡Sagrado Corazón!
+ F     G    Em    Am    F    G    C
+¡Oh,         Corazón!   ¡Oh, Corazón!
+ F     G    Em     Am   F       Em   Am
+¡Oh,         Corazón!  ¡Sagrado Corazón!
+ F     Em   Am
+¡Sagrado Corazón!
+ F     Em   Am
+¡Sagrado Corazón!
 
 F   G   Em   Am   F   G   C
 ¡Oh!
@@ -80,19 +93,19 @@ enséñame a ser pequeño.
    Am         F
 Sagrado Corazón,
           G        C
-maestro humilde y manso 
+maestro humilde y manso
    Am         F
 Sagrado Corazón,
           G        C
-maestro humilde y manso 
+maestro humilde y manso
    C       D     C
 es en tu yugo ligero
         E7              C
-donde encuentro el descanso. 
+donde encuentro el descanso.
    C       D     C
 es en tu yugo ligero
         E7              C
-donde encuentro el descanso. 
+donde encuentro el descanso.
 
 
    F
