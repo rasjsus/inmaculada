@@ -11,7 +11,7 @@
 - Comunion: [Al recibirte en comunion](primera_comunion/al_recibirte_en_comunion.md)
 - Comunion: [Jesus Amigo](primera_comunion/jesus_amigo.md)
 - Comunion: [El momento mas bello](primera_comunion/este_es_el_momento.md)
-- Salida: [Dulce Madre](salida/ninia_que_nacio.md)
+- Salida: [Dulce Madre](primera_comunion/dulce_madre.md)
 
   Annotations:
   `mkdocs gh-deploy`
