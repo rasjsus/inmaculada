@@ -1,4 +1,4 @@
-site_name: Inmaculada Chorus
+site_name: Coro Beatus Dei
 nav:
   - Home: index.md
   - Miercoles de Ceniza: miercoles_de_ceniza.md
@@ -178,6 +178,7 @@ nav:
       - Himno pascual: comunion/himno_pascual.md
       - Jesucristo único salvador del mundo: comunion/jesucristo_unico_salvador_del_mundo.md
       - Toma mis lágrimas: comunion/toma_mis_lagrimas.md
+      - Que dificil señor: comunion/que_dificil_senior.md
   - Salida:
       - A ti madre de esperanza: salida/a_ti_madre_de_esperanza.md
       - En torno a María: salida/en_torno_a_maria.md
