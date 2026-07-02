@@ -1,8 +1,8 @@
-# Esquema cuaresma IV
+# Esquema Ordinario
 
 - Entrada: [El Señor es mi luz y mi salvacion](entrada/el_senior_es_mi_luz.md)
 - Señor ten piedad: [Señor 8](senior_ten_piedad/senior_8.md)
-- Gloria: [Gloria](gloria/gloria_pascua.md)
+- Gloria: [Gloria](gloria/gloria_palazon.md)
 - Aleluya: [Aleluya](aleluya/aleluya_1.md)
 - Ofertorio: [Te presentamos el vino y el pan](ofertorio/te_presentamos_el_vino_y_el_pan.md)
 - Santo: [Santo](santo/santo_relasol.md)
@@ -12,7 +12,5 @@
 
   Annotations:
   `mkdocs gh-deploy`
-
-
 
 Salida salve regina / ven y reina madre de dios https://www.verbumgloriae.es/project/salve-regina-simple/
