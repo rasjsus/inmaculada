@@ -1,6 +1,8 @@
 # Que dificil (Padre Jesus Galeana)
 
 ```bash
+Original CAPO 5
+
 C             G           F
 Que dificil Señor, se me hace
          C                      
